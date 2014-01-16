@@ -19,7 +19,7 @@ post on these trivial definitions.
 ## An Alphabet
 
 Yeah, I'm not kidding. There's a formal definition for alphabet. And what's
-worse: it actually makes sense. I just wonder what would a kinder-gardener say
+worse: it actually makes sense. I just wonder what would a kindergartener say
 on this :-D. Anyway, here it goes:
 
 **Definition 1.1.** An **alphabet** is a finite non-empty set of _symbols._
