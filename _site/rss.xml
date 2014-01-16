@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>linuxwell</title>
+    <link>http://linuxwell.com</link>
+    <description>by Radek Pazdera</description>
+    <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+    <item>
+      <title>Developers Conference 2013</title>
+      <link>http://linuxwell.com/2013/02/25/developers-conference-2013/</link>
+      <description>&lt;p&gt;The &lt;a href=&quot;http://devconf.cz/&quot;&gt;Developers Conference&lt;/a&gt; took place in Brno this past
+weekend (February 23rd, 24th). It is an annual event organised by the
+&lt;strong&gt;Red Hat&lt;/strong&gt; office in Brno with the members of the &lt;a href=&quot;http://fedora.cz&quot;&gt;Fedora&lt;/a&gt;
+and &lt;a href=&quot;http://www.jboss.org/&quot;&gt;JBoss.org&lt;/a&gt; communities.&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+      <dc:date>2013-02-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The Biography of Linus Torvalds</title>
+      <link>http://linuxwell.com/2013/02/19/just-for-fun-the-biography-of-linus-torvalds/</link>
+      <description>&lt;p&gt;&lt;a href=&quot;/assets/images/posts/just-for-fun.jpg&quot;&gt;
+    &lt;img src=&quot;/assets/images/posts/just-for-fun.jpg&quot; alt=&quot;Just for fun book cover&quot; class=&quot;pull-right&quot; style=&quot;width: 30%; margin: 0 0 15px 15px;&quot; /&gt;
+&lt;/a&gt;
+Did you know there actually is a book about the creator of the Linux kernel?
+And that it was published twelve years ago in 2001? I have used Linux-based
+operating systems for almost 8 years, and I must admit I never heard of such
+a book up to three months ago. I ordered it the minute I found out about it.
+And I’m glad I did :-).&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      <dc:date>2013-02-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>FOSDEM 2013</title>
+      <link>http://linuxwell.com/2013/02/05/fosdem-2013/</link>
+      <description>&lt;p&gt;This year, I was given the opportunity to travel to Brussels to attend &lt;em&gt;the best
+Free Software and Open Source event in Europe&lt;/em&gt;, also known as The Free and Open
+source Software Developers’ European Meeting (&lt;strong&gt;FOSDEM&lt;/strong&gt;).&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      <dc:date>2013-02-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Raspberry Pi</title>
+      <link>http://linuxwell.com/2012/12/25/raspberry-pi/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/images/posts/raspi_colour_r.png&quot; alt=&quot;Raspberry Pi Logo&quot; class=&quot;pull-right&quot; style=&quot;width: 20%; margin-left: 15px;&quot; /&gt;
+It’s Christmas time, which means that there is a pause from school and a pause
+from work as well (the office is closed). So I finally had enough time to set
+up the &lt;strong&gt;Raspberry Pi&lt;/strong&gt; board I ordered few weeks ago. And it’s fantastic!
+I was really surprised how easy it was to set it up and get everything to work
+properly. Due to its popularity there are guides and howtos everywhere.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 25 Dec 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-12-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Brief GDB Basics</title>
+      <link>http://linuxwell.com/2012/12/24/brief-gdb-basics/</link>
+      <description>&lt;p&gt;In this post I would like to go through some of the very basic cases in which
+&lt;code&gt;gdb&lt;/code&gt; can come in handy. I’ve seen people avoid using &lt;code&gt;gdb&lt;/code&gt; , saying it is a
+CLI tool and therefore it would be hard to use. Instead, they opted for this:&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 24 Dec 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-12-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Boxes Comic</title>
+      <link>http://linuxwell.com/2012/12/05/boxes-comic/</link>
+      <description>&lt;p&gt;I signed up to a course called &lt;a href=&quot;http://www.fit.vutbr.cz/study/course-l.php.en?id=7486&quot;&gt;Creative
+Art&lt;/a&gt; at school this term
+and as a part of this course everyone had to create some sort of “art-work”. It
+took me a while, because I can’t really draw. Anyway, here it is :).&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-12-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The Magical container_of() Macro</title>
+      <link>http://linuxwell.com/2012/11/10/magical-container_of-macro/</link>
+      <description>&lt;p&gt;When you begin with the kernel, and you start to look around and read the
+code, you will eventually come across this magical preprocessor construct.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 10 Nov 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-11-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Fedora 17 Tweaks</title>
+      <link>http://linuxwell.com/2012/07/07/fedora-17-tweaks/</link>
+      <description>&lt;p&gt;I finally had a bit of time to perform the annual desktop re-install to upgrade
+the OS on my primary computer.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-07-07T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Custom Kernel for Fedora</title>
+      <link>http://linuxwell.com/2012/02/12/custom-kernel-on-fedora/</link>
+      <description>&lt;p&gt;Why would someone want to have a &lt;strong&gt;custom kernel&lt;/strong&gt;? Well, maybe you like the
+cutting-edge features or maybe you want to hack on it! Anyway, this post
+explains step-by-step, how to &lt;strong&gt;download&lt;/strong&gt;, &lt;strong&gt;build&lt;/strong&gt; and &lt;strong&gt;install&lt;/strong&gt; your
+custom kernel on Fedora. I’ll be building kernel from the mainline tree for
+i686.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 12 Feb 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-02-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Core dumps in Fedora</title>
+      <link>http://linuxwell.com/2012/02/11/core-dumps-in-fedora/</link>
+      <description>&lt;p&gt;This post will demonstrate a way of obtaining and examining a &lt;strong&gt;core dump&lt;/strong&gt; on
+Fedora Linux.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 11 Feb 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-02-11T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Test Driven Development</title>
+      <link>http://linuxwell.com/2012/02/10/test-driven-development/</link>
+      <description>&lt;p&gt;Another book from my huge &lt;strong&gt;TOREAD&lt;/strong&gt; pile is &lt;a href=&quot;http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530&quot;&gt;Test Driven Development: By
+Example&lt;/a&gt;
+from &lt;strong&gt;Kent Beck&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 10 Feb 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-02-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Fun with netcat</title>
+      <link>http://linuxwell.com/2012/02/10/fun-with-netcat/</link>
+      <description>&lt;p&gt;Ever heard of &lt;strong&gt;nc&lt;/strong&gt;? It’s a simple utility that is able to connect to a
+remote host via TCP or UDP socket and send data. Basically it’s a command line
+interface to the BSD socket API. The manual page says&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 10 Feb 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-02-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Brief History of Time</title>
+      <link>http://linuxwell.com/2012/02/03/brief-history-of-time/</link>
+      <description>&lt;p&gt;I finished all my exams a little early this term (and thank god for that), so
+I could dive right into the huge pile of book that had emerged on my desk
+through the semester. The first one was &lt;strong&gt;Brief History of Time&lt;/strong&gt; from &lt;a href=&quot;http://en.wikipedia.org/wiki/Stephen_Hawking&quot;&gt;Stephen
+Hawking&lt;/a&gt; which is a very
+interesting book.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-02-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The DRY Principle</title>
+      <link>http://linuxwell.com/2012/01/19/dry-principle/</link>
+      <description>&lt;p&gt;I read a couple of books on software development lately and I stumbled upon
+some more principles of software design that I want to talk about. And the
+first and probably the most important one is this:&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      <dc:date>2012-01-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>New Domain linuxwell.com!</title>
+      <link>http://linuxwell.com/2011/11/01/new-domain-linuxwell-com/</link>
+      <description>&lt;p&gt;I like having this little website and I enjoy writing new posts. So when I
+noticed, that &lt;strong&gt;linuxwell.com&lt;/strong&gt; is still available I thought, “Hey, let’s get
+it!” The transfer went through this morning, so the blog is now available
+primarily from &lt;a href=&quot;http://www.linuxwell.com&quot;&gt;http://www.linuxwell.com&lt;/a&gt;. The old
+third-level domain on wordpress.com will still work, but it’s better to use the
+new one now :-).&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-11-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>nVidia CUDA on Linux (Fedora 15)</title>
+      <link>http://linuxwell.com/2011/10/30/nvidia-cuda-on-linux-fedora-15/</link>
+      <description>&lt;p&gt;I recently updated my desktop with a new graphic card from nVidia – a pretty
+low-end &lt;a href=&quot;http://www.gigabyte.com/products/product-page.aspx?pid=3746&quot;&gt;GT440&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 30 Oct 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-10-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Multiple Versions of gcc on Fedora 15</title>
+      <link>http://linuxwell.com/2011/10/30/multiple-versions-of-gcc-on-fedora-15/</link>
+      <description>&lt;p&gt;This post describes a way of building and installing additional versions of
+&lt;strong&gt;GNU gcc&lt;/strong&gt; compiler on Fedora 15.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 30 Oct 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-10-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Learning Ruby</title>
+      <link>http://linuxwell.com/2011/10/28/learning-ruby/</link>
+      <description>&lt;p&gt;I always wanted to learn &lt;a href=&quot;http://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt;. It became so
+popular over the last couple of years and I hear people praise the language
+everywhere I go. Well, time has come and I cannot postpone this anymore (not
+with a clear conscience anyway). &lt;strong&gt;So I’m finally learning Ruby.&lt;/strong&gt; I went
+quickly over the net and also our campus library today, to see what resources
+are available for the Ruby newbies.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 28 Oct 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-10-28T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Theorem Proving in Mathematics</title>
+      <link>http://linuxwell.com/2011/10/24/theorem-proving-in-mathematics/</link>
+      <description>&lt;p&gt;The very foundation of mathematics as we know it! Or, well, that evil thing
+math teachers had invented so they could torture the students. And we all know
+&lt;em&gt;that&lt;/em&gt; very well… Anyway, I’m one of the tortured this fall, so let’s talk
+the math!&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-10-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The Pragmatic Programmer</title>
+      <link>http://linuxwell.com/2011/10/24/the-pragmatic-programmer/</link>
+      <description>&lt;p&gt;Another great piece of computer literature I found in our campus’ library! I’m
+talking about &lt;strong&gt;The Pragmatic Programmer&lt;/strong&gt; by Andy Hunt and David Thomas. And
+yes, it’s gooood :)!&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-10-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Myhill-Nerode Theorem in Practice</title>
+      <link>http://linuxwell.com/2011/10/24/myhill-nerode-theorem-in-practice/</link>
+      <description>&lt;p&gt;When it comes to practical side of computer science, we often work with
+&lt;strong&gt;regular&lt;/strong&gt; and &lt;strong&gt;context-free&lt;/strong&gt; languages. Regular languages are most common
+for expressing syntax through the widely used &lt;strong&gt;regular expressions&lt;/strong&gt;. Somewhat
+stronger context-free grammars dominate in the field of compilers and various
+language processors.&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-10-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Languages in Computer Science</title>
+      <link>http://linuxwell.com/2011/10/21/languague-in-computer-science/</link>
+      <description>&lt;p&gt;The &lt;a href=&quot;http://linuxwell.wordpress.com/2011/09/23/strings-in-computer-science/&quot; title=&quot;Strings in Couputer Science&quot;&gt;last post&lt;/a&gt; was about strings, so now it’s the right time to
+learn something something about &lt;strong&gt;languages&lt;/strong&gt; too.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 21 Oct 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-10-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Strings in Computer Science</title>
+      <link>http://linuxwell.com/2011/09/23/strings-in-computer-science/</link>
+      <description>&lt;p&gt;You have probably stumbled upon a string data type in some programming
+language. In C it’s &lt;code&gt;&amp;lt;string.h&amp;gt;&lt;/code&gt;, in C++ &lt;code&gt;std::string&lt;/code&gt;, Python has them even
+PHP! They’re useful, pretty straight-forward. And the most beautiful thing is,
+that there is a theoretical foundation for them! These operations e.g.
+reversation, concatenation, making sub-string and of course the string itself!
+Let’s have a look.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 23 Sep 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-09-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Errors as Part of Interface</title>
+      <link>http://linuxwell.com/2011/09/21/errors-as-part-of-interface/</link>
+      <description>&lt;p&gt;I was writing &lt;a href=&quot;https://github.com/astro-/pop3client&quot; title=&quot;pop3client&quot;&gt;this code&lt;/a&gt;
+the other day. It’s a very small program – a POP3 client that downloads
+messages. And I just couldn’t come up with an easy and consistent way to report
+errors. I wanted something lightweight, but what actually makes sense. I was
+looking through some code hoping, that someone else has a good strategy I could
+rip. From what I saw, the most common is &lt;strong&gt;none whatsoever&lt;/strong&gt;. Well, I didn’t
+like that one bit …&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 21 Sep 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-09-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Best Practices in Error Handling</title>
+      <link>http://linuxwell.com/2011/09/13/best-practices-in-error-handling/</link>
+      <description>&lt;p&gt;According to the &lt;a href=&quot;http://en.wikipedia.org/wiki/Murphy%27s_law&quot;&gt;Murphy’s law&lt;/a&gt;
+– “&lt;em&gt;Anything that can go wrong will go wrong&lt;/em&gt;”. And if Mr. Murphy were also a
+software engineer, he would certainly add “&lt;em&gt;and anything that cannot go wrong
+will go wrong as well&lt;/em&gt;”. Wise man that Murphy, but what does it mean for us,
+the programmers out there in the trenches?&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 13 Sep 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-09-13T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>New Theme</title>
+      <link>http://linuxwell.com/2011/09/02/new-theme/</link>
+      <description>&lt;p&gt;I got a little sick of the &lt;a href=&quot;http://wordpress.org/extend/themes/titan&quot;&gt;Titan&lt;/a&gt;
+theme and while I was doing some changes to the site, I decided to let it go in
+favor of &lt;a href=&quot;http://theme.wordpress.com/themes/skeptical/&quot;&gt;Skeptical&lt;/a&gt;. I don’t
+have everything figured out just yet as you can see, but I’m getting to it!
+Here is the old version of &lt;strong&gt;Linuxwell&lt;/strong&gt;:&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 02 Sep 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-09-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Static and extern keywords in C</title>
+      <link>http://linuxwell.com/2011/09/01/static-and-extern-keywords-in-c/</link>
+      <description>&lt;p&gt;These keywords used to literally haunt my dreams back in the day, when I was a
+freshman at &lt;a href=&quot;http://www.fit.vutbr.cz/&quot;&gt;BUT&lt;/a&gt;. I was just getting grips with C at
+that time and whenever I tried to use them, I got it all wrong. I’m talking
+about the magic keywords – &lt;code&gt;static&lt;/code&gt; and &lt;code&gt;extern&lt;/code&gt; . Both of them have multiple
+uses in C code and slightly different behavior in each case. For a beginner it
+might seem like a total anarchy, but it will start to make sense at some point.
+So, let’s get to the point…&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-09-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Basic Computer Science</title>
+      <link>http://linuxwell.com/2011/08/31/basic-computer-science/</link>
+      <description>&lt;p&gt;There is a couple of very basic definitions and axioms in computer science. I
+consider them to be very important, because everything that comes later is
+based on them. And if you don’t fully comprehend the basic stuff, it will be
+very hard to understand anything further. That’s why I decided to write a whole
+post on these trivial definitions.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 31 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-31T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Introduction to Computer Science</title>
+      <link>http://linuxwell.com/2011/08/30/introduction-to-computer-science/</link>
+      <description>&lt;p&gt;In the upcoming semester I’ll be taking class called &lt;a href=&quot;http://www.fit.vutbr.cz/study/courses/TIN/&quot; title=&quot;TIN&quot;&gt;Theoretical Computer
+Science&lt;/a&gt;. Which is said to be
+&lt;em&gt;the hardest&lt;/em&gt; thing you can attend here at &lt;a href=&quot;http://www.fit.vutbr.cz/&quot; title=&quot;Brno
+University of Technology&quot;&gt;BUT&lt;/a&gt;. Only half the people pass the bar every year. It’s
+brutal. And since I’d really like to be a part of the lucky half, I thought I
+could dig into the theory a little earlier and see how bad it is.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 30 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-30T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Code Complete!</title>
+      <link>http://linuxwell.com/2011/08/29/code-complete/</link>
+      <description>&lt;p&gt;I got a copy of this awesome book today and I’m so excited, I have to write a
+post about it :-)!&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Bridge</title>
+      <link>http://linuxwell.com/2011/08/26/design-patterns-bridge/</link>
+      <description>&lt;p&gt;Today I’m going to write some examples of &lt;strong&gt;Bridge&lt;/strong&gt;. The &lt;a href=&quot;http://www.oodesign.com/bridge-pattern.html&quot;&gt;design
+pattern&lt;/a&gt; not the
+&lt;a href=&quot;http://www.youtube.com/watch?v=TQRdnEtzjiQ&quot;&gt;game&lt;/a&gt;. Bridge is a &lt;em&gt;structural
+pattern&lt;/em&gt; that decouples abstraction from the implementation of some component
+so the two can vary independently. The bridge pattern can also be thought of as
+two layers of abstraction[3].&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 26 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-26T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Adapter</title>
+      <link>http://linuxwell.com/2011/08/15/design-patterns-adapter/</link>
+      <description>&lt;p&gt;And back to design patterns! Today it’s time to start with &lt;a href=&quot;http://sourcemaking.com/structural_patterns&quot;&gt;structural
+patterns&lt;/a&gt;, since I have finished
+all the creational patterns. What are those &lt;em&gt;structural&lt;/em&gt; patterns anyway?&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-15T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>UML Class Diagram</title>
+      <link>http://linuxwell.com/2011/08/13/uml-class-diagram/</link>
+      <description>&lt;p&gt;The class diagram is a very important part of
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Unified_Modeling_Language&quot;&gt;UML&lt;/a&gt;. It’s a
+&lt;a href=&quot;http://en.wikipedia.org/wiki/File:Uml_diagram.svg&quot;&gt;structure diagram&lt;/a&gt; and it’s
+purpose is to display classes in the system with all the relationships between
+them. In my opinion it’s the most popular type of diagram in software
+development.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 13 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-13T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Interface Segregation Principle</title>
+      <link>http://linuxwell.com/2011/08/12/interface-segregation-principle-in-software-design/</link>
+      <description>&lt;p&gt;&lt;strong&gt;ISP&lt;/strong&gt;, not &lt;em&gt;Internet Service Provider&lt;/em&gt;, but &lt;strong&gt;Interface Segregation
+Principle&lt;/strong&gt; is the last of the famous principles of
+&lt;a href=&quot;http://linuxwell.wordpress.com/2011/08/05/solid-object-oriented-design/&quot; title=&quot;SOLID Object-Oriented Design&quot;&gt;SOLID&lt;/a&gt; object-oriented software design. It was
+introduced by &lt;a href=&quot;http://en.wikipedia.org/wiki/Robert_C._Martin&quot;&gt;Robert C. Martin&lt;/a&gt;
+in his series of articles in 1996. Intention of this principle is to avoid
+creation of “fat” interfaces.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 12 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Installing Brother HL-2035 on Fedora 15</title>
+      <link>http://linuxwell.com/2011/08/12/installing-brother-hl-2035-on-fedora-15/</link>
+      <description>&lt;p&gt;This is a step-by-step how-to on installing drivers for &lt;strong&gt;Brother HL-2035&lt;/strong&gt;
+printer. I installed it on &lt;strong&gt;Fedora 15 Linux&lt;/strong&gt;, but it should work on most
+other distributions as well (with some alterations). Let’s get on with it.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 12 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-12T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Hello Lua</title>
+      <link>http://linuxwell.com/2011/08/11/hello-lua/</link>
+      <description>&lt;p class=&quot;pull-left&quot;&gt;&lt;img src=&quot;http://www.lua.org/images/lua-logo.gif&quot; alt=&quot;Lua logo&quot; title=&quot;Lua logo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Back in the day, when I used to play &lt;a href=&quot;http://eu.battle.net/wow/en/&quot;&gt;World of Warcraft&lt;/a&gt;
+(shame on me), I noticed they use something called &lt;a href=&quot;http://www.lua.org/&quot;&gt;Lua&lt;/a&gt;
+to let players extend their user interface with various addons and tweaks. It
+worked very good. There are literally thousands of available
+&lt;a href=&quot;http://wow.curse.com/downloads/wow-addons/default.aspx&quot;&gt;addons&lt;/a&gt; for World of
+Warcraft. I quit the game about 2 years ago and I never got to look further
+into Lua, until now.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-11T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Dependency Inversion Principle</title>
+      <link>http://linuxwell.com/2011/08/10/dependency-inversion-principle/</link>
+      <description>&lt;p&gt;&lt;strong&gt;DIP&lt;/strong&gt; or &lt;strong&gt;Dependency Inversion Principle&lt;/strong&gt; is yet another guideline for the
+software designers that work in object-oriented environment. It’s the &lt;strong&gt;D&lt;/strong&gt; in
+&lt;a href=&quot;/2011/08/05/solid-object-oriented-design/&quot; title=&quot;SOLID Object-Oriented Design&quot;&gt;SOLID&lt;/a&gt; and it has one huge advantage over the other
+principles: in case it doesn’t work for you, you can always get some &lt;a href=&quot;http://en.wikipedia.org/wiki/Dip_%28food%29&quot;&gt;tortilla
+chips&lt;/a&gt; to help (they work
+wonderfully with dip ;-)).&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Building Ogre3D from Sources on Fedora 15</title>
+      <link>http://linuxwell.com/2011/08/10/building-ogre3d-from-sources-on-fedora-15/</link>
+      <description>&lt;p&gt;This is a little walk-through the whole build process of &lt;strong&gt;Ogre 3D rendering
+engine&lt;/strong&gt;. It’s primarily for users of &lt;strong&gt;Fedora GNU/Linux distribution&lt;/strong&gt; or any
+similar distro that uses rpms and yum. I chose the variant using
+&lt;a href=&quot;http://www.ogre3d.org/tikiwiki/Building+Ogre+With+CMake&quot;&gt;cmake&lt;/a&gt;, so first
+thing you want to do is install &lt;a href=&quot;http://www.cmake.org/&quot;&gt;cmake&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 10 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Liskov Substitution Principle</title>
+      <link>http://linuxwell.com/2011/08/09/liskov-substitution-principle/</link>
+      <description>&lt;p&gt;Another principle of object-oriented software design, the &lt;strong&gt;L&lt;/strong&gt; in
+&lt;a href=&quot;http://linuxwell.wordpress.com/2011/08/05/solid-object-oriented-design/&quot; title=&quot;SOLID Object-Oriented Design&quot;&gt;SOLID&lt;/a&gt;, the &lt;strong&gt;Liskov Substitution Principle&lt;/strong&gt;! But
+first a little background and some theory (feel free to skip right to the
+practical part of the post). The principle is called after &lt;a href=&quot;http://en.wikipedia.org/wiki/Barbara_Liskov&quot;&gt;Barbara
+Liskov&lt;/a&gt;, who initially introduced
+it in 1987. &lt;strong&gt;Prof. Liskov&lt;/strong&gt; first defined it like this&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Renderer</title>
+      <link>http://linuxwell.com/2011/08/09/design-patterns-renderer/</link>
+      <description>&lt;p&gt;This post about design patterns will be a little unusual. To this day, I was
+going through a generally recognized set of design patterns that was introduced
+by the &lt;a href=&quot;http://www.hillside.net/the-gang-of-four&quot;&gt;Gang of Four&lt;/a&gt; in &lt;a href=&quot;http://en.wikipedia.org/wiki/Design_Patterns&quot;&gt;Design
+Patterns: Elements of Reusable Object-Oriented
+Software&lt;/a&gt;. But today I want to
+introduce to you a useful design bit I came up with, while I was working on my
+&lt;a href=&quot;http://p-g-c.blogspot.com/&quot;&gt;bachelor’s thesis&lt;/a&gt;. I call it &lt;strong&gt;Renderer&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Single Responsibility Principle</title>
+      <link>http://linuxwell.com/2011/08/08/single-responsibility-principle/</link>
+      <description>&lt;p&gt;Single responsibility principle, or &lt;strong&gt;SRP&lt;/strong&gt; is another of the &lt;a href=&quot;http://linuxwell.wordpress.com/2011/08/05/solid-object-oriented-design/&quot; title=&quot;SOLID Object-Oriented Design&quot;&gt;SOLID
+guidelines&lt;/a&gt; for software designers. It’s especially useful
+in object-oriented design. The name suggests, that it will have something to do
+with decomposing the problem up to the point, where each entity in the system
+has &lt;strong&gt;one&lt;/strong&gt; and &lt;strong&gt;only one&lt;/strong&gt; responsibility. The principle alone states,&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-08T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>The 'Oh' Moment</title>
+      <link>http://linuxwell.com/2011/08/05/the-oh-moment/</link>
+      <description>&lt;p&gt;There’s a little thing in software development I like to call the ‘ &lt;a href=&quot;http://www.youtube.com/watch?v=EztemITwSrs&quot;&gt;Oh
+moment&lt;/a&gt;’.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>SOLID Object-Oriented Design</title>
+      <link>http://linuxwell.com/2011/08/05/solid-object-oriented-design/</link>
+      <description>&lt;p&gt;What is &lt;strong&gt;solid&lt;/strong&gt; object-oriented design? Like, strong, steady, you know or
+not a liquid or something? Well, who knows? Unless it’s written in
+&lt;strong&gt;CAPITALS&lt;/strong&gt;! In that case it’s a acronym introduced by &lt;strong&gt;Robert C. Martin&lt;/strong&gt; in
+the early 2000s which stands for five basic principles of object-oriented
+programming and design. What are these principles?&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Open/Closed Principle in Software Design</title>
+      <link>http://linuxwell.com/2011/08/04/openclosed-principle-in-software-design/</link>
+      <description>&lt;p&gt;Open/Closed principle or &lt;strong&gt;OCP&lt;/strong&gt; is one of the guidelines that help software
+developers achieve high quality software design.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Object Pool</title>
+      <link>http://linuxwell.com/2011/08/04/design-pattern-object-pool/</link>
+      <description>&lt;p&gt;Last one from the family of creational patterns is &lt;strong&gt;Object Pool&lt;/strong&gt;. The main
+purpose of object pool and why designers choose to incorporate to the software
+is a performance boost. Construction and destruction of object can become very
+expensive operation in some cases (especially if it occurs very often).
+Constant building and throwing away instances may significantly slow down your
+application. Object Pool pattern offers a solution to this problem. Object pool
+is a managed set of reusable objects. Clients then “check out” objects from the
+pool return them back when they don’t need them any more. But it’s not that
+easy as it sounds. The manager of the pool has to deal with various problems.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Prototype</title>
+      <link>http://linuxwell.com/2011/08/03/design-pattern-prototype/</link>
+      <description>&lt;p&gt;Prototype is one of the easier to understand design patterns. The intent of
+prototype is to create new instances of classes by &lt;strong&gt;cloning a prototype
+instance&lt;/strong&gt;, rather than building them from scratch. This is particularly useful
+when the initialization of the objects is very expensive and very similar among
+the majority of created instances.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 03 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Brute-Force String Generation in C</title>
+      <link>http://linuxwell.com/2011/08/03/brute-force-string-generation-in-c/</link>
+      <description>&lt;p&gt;Earlier this week, I posted an
+&lt;a href=&quot;http://linuxwell.wordpress.com/2011/08/02/string-generation-for-brute-force-attacks/&quot; title=&quot;String Generation for Brute-force Attacks&quot;&gt;article&lt;/a&gt; about string generation for
+brute-force attacks and a couple of example solutions. I emphasized, that the
+key aspect of brute-force is speed. We want to try as many combinations of
+input data as possible in the minimum amount of time. And part of this is also
+efficient algorithm that will generate input combinations. But the examples I
+posted were written in Python, which is kind of a high level scripting
+language, not nearly as fast as C.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 03 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>String Generation for Brute-force Attacks</title>
+      <link>http://linuxwell.com/2011/08/02/string-generation-for-brute-force-attacks/</link>
+      <description>&lt;p&gt;A &lt;a href=&quot;http://en.wikipedia.org/wiki/Brute-force_attack&quot;&gt;brute-force attack&lt;/a&gt; is one
+of the most trivial (and yet pretty useful) methods of cracking passwords and
+breaking access keys.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Builder</title>
+      <link>http://linuxwell.com/2011/08/02/design-patterns-builder/</link>
+      <description>&lt;p&gt;It’s time for another design pattern example and today it’s going to be the
+&lt;strong&gt;builder&lt;/strong&gt; design pattern! Another one from the group of creational patterns,
+as it’s name suggests. And how does it work?&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-08-02T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Documenting Python Code with Sphinx</title>
+      <link>http://linuxwell.com/2011/07/28/documenting-python-code-with-sphinx/</link>
+      <description>&lt;p&gt;One of the essential tasks in software development is &lt;strong&gt;documenting your
+code&lt;/strong&gt;. With no documentation, hardly anyone will be able to understand your
+code and therefore contribute to your project. Sometimes you might find even
+yourself looking at your own code wandering, “What the hell is this supposed to
+mean?” Well, that’s where documentation comes in!&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 28 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-28T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Abstract Factory</title>
+      <link>http://linuxwell.com/2011/07/24/design-patterns-abstract-factory/</link>
+      <description>&lt;p&gt;I’m trying to keep up the tempo and do a design pattern a day, so here goes
+another one! Today it’s
+&lt;a href=&quot;http://sourcemaking.com/design_patterns/abstract_factory&quot;&gt;abstract factory&lt;/a&gt;.
+I wrote a post about the
+&lt;a href=&quot;http://linuxwell.wordpress.com/2011/07/22/design-patterns-factory-method/&quot;&gt;factory method&lt;/a&gt;
+yesterday and this one (as you can guess) is somewhat similar.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Unit Testing in Python</title>
+      <link>http://linuxwell.com/2011/07/23/unit-testing-in-python/</link>
+      <description>&lt;p&gt;I probably don’t need to tell you, how important testing your code is in
+software developement. One way of doing so is writing &lt;strong&gt;unit tests&lt;/strong&gt;. Unit
+tests are an automated set of &lt;strong&gt;test cases&lt;/strong&gt;. These test cases are there to
+make sure, that the code does exactly what it should, nothing more and nothing
+less.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 23 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Factory Method</title>
+      <link>http://linuxwell.com/2011/07/22/design-patterns-factory-method/</link>
+      <description>&lt;p&gt;Another design pattern today! The second most common (after the singleton) is,
+in my opinion &lt;strong&gt;factory method&lt;/strong&gt;. It’s a creational design pattern, that’s
+useful when you need to control creation process of the objects a little more
+than by a constructor.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 22 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-22T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Static variables and methods in Python</title>
+      <link>http://linuxwell.com/2011/07/21/static-variables-and-methods-in-python/</link>
+      <description>&lt;p&gt;How to declare a data member or a method
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Method_%28computer_programming%29#Static_methods&quot;&gt;static&lt;/a&gt;
+in Python? Static means, that the member is on a class level rather on the
+instance level. Static variables exist only in single instance per class and
+are not instantiated. If a static variable is changed in one instance of the
+class, the change will affect its value in all other instances.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Private, protected and public in Python</title>
+      <link>http://linuxwell.com/2011/07/21/private-protected-and-public-in-python/</link>
+      <description>&lt;p&gt;A lot of folks learn object-oriented programming with languages like C++ and
+Java. And while they learn, they’re told repeatedly (over and over again),
+that &lt;a href=&quot;http://en.wikipedia.org/wiki/Encapsulation_%28object-oriented_programming%29&quot;&gt;encapsulation&lt;/a&gt;
+is one of the key principles of object-oriented paradigm and that they should
+take advantage of it. Sure, until you get down with
+&lt;a href=&quot;http://www.python.org/&quot;&gt;Python&lt;/a&gt; :-).&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns: Singleton</title>
+      <link>http://linuxwell.com/2011/07/21/design-patterns-singleton/</link>
+      <description>&lt;p&gt;Let’s start with something simple. Singleton is probably the most basic of
+design patterns. When someone explains the term &lt;em&gt;design pattern&lt;/em&gt;, you can be
+sure that, at some point, he will mention the &lt;strong&gt;singleton&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-21T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Design Patterns</title>
+      <link>http://linuxwell.com/2011/07/20/design-patterns/</link>
+      <description>&lt;p&gt;Another thing I’ve been avoiding for a long time is &lt;strong&gt;design patterns&lt;/strong&gt; and
+their use in software development. Now it’s time to learn to use all those
+things! What I intend to do is go through all of them and write an example
+implementation of each in &lt;strong&gt;C++&lt;/strong&gt; and &lt;strong&gt;Python&lt;/strong&gt;. You’ll find links to
+respective posts here later on as I add them.&lt;/p&gt;
+
+</description>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-20T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>My notes on vim</title>
+      <link>http://linuxwell.com/2011/07/19/my-notes-on-vim/</link>
+      <description>&lt;p&gt;One of the things that have been on my todo list forever – &lt;strong&gt;learn vim&lt;/strong&gt;! And
+what a better time is there for such a thing than the holidays :-)!&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Linux File Permissions Explained</title>
+      <link>http://linuxwell.com/2011/07/19/linux-file-permissions-explained/</link>
+      <description>&lt;p&gt;Because Linux is intended to be a multi-user system, there has to be a way of
+controlling access to a different files by different users.&lt;/p&gt;
+
+</description>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>New to Fedora</title>
+      <link>http://linuxwell.com/2011/07/14/new-to-fedora/</link>
+      <description>&lt;p&gt;Just yesterday, after a long time of evaluating all pro’s and con’s, I finally
+decided to install Fedora 15 on my desktop machine.&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Getopt in Bash</title>
+      <link>http://linuxwell.com/2011/07/14/getopt-in-bash/</link>
+      <description>&lt;p&gt;There are two different ways of parsing command line arguments while using
+&lt;code&gt;getopt(3)&lt;/code&gt;. There is an utility called &lt;strong&gt;getopt&lt;/strong&gt; (&lt;code&gt;man 1 getopt&lt;/code&gt;). This
+utility is available in all shells. Then in bash, there is another built-in
+tool for parsing arguments called &lt;strong&gt;getopts&lt;/strong&gt; (it’s a built-in, so it
+doesn’t have it’s own man-page – try &lt;code&gt;help getopts&lt;/code&gt;).&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 14 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Syslog Howto</title>
+      <link>http://linuxwell.com/2011/07/08/syslog-howto/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Syslog&lt;/strong&gt; is a standard for logging program messages. It allows separation
+of the software that generates messages from the system that stores them.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-08T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Licensing Your Software</title>
+      <link>http://linuxwell.com/2011/07/01/licensing-your-software/</link>
+      <description>&lt;p&gt;When it comes to releasing your software publicly, you need to specify at
+what conditions may other people use, modify, copy and redistribute it. This
+is usually done by supplying some kind of a document along with your
+software called &lt;strong&gt;license&lt;/strong&gt;. Writing a good license could mean having a
+pretty rough times over a fat pile of lawyer books for a common software
+developer though.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Exploring Runlevels</title>
+      <link>http://linuxwell.com/2011/07/01/exploring-runlevels/</link>
+      <description>&lt;p&gt;Today I would like to have a closer look at &lt;em&gt;runlevels&lt;/em&gt;. Rulevel, in other
+words &quot;a mode of operation&quot;, is a certain setup of services in your
+operating system. Conventionally, there are 7 runlevels defined in a
+Linux-based operating system numbered 0 to 6.&lt;/p&gt;
+
+</description>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-07-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Changing Linux Shell Prompt</title>
+      <link>http://linuxwell.com/2011/06/30/changing-linux-shell-prompt/</link>
+      <description>&lt;p&gt;I have been wondering how to customize the prompt in bash for some time now.
+However, I never had enough time and energy to look into that. Until now!
+So, let’s &lt;strong&gt;doo-ooo-ooo&lt;/strong&gt; it!&lt;/p&gt;
+
+</description>
+      <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
+      <dc:date>2011-06-30T00:00:00+00:00</dc:date>
+    </item>
+    <dc:date>2013-02-25T00:00:00+00:00</dc:date>
+  </channel>
+</rss>
