@@ -1,18 +1,18 @@
 name: linuxwell
-description: by Radek Pazdera
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: "by Radek Pazdera"
+meta_description: "A blog about Linux, programming, and tech in general."
 
-markdown:    kramdown
+markdown: kramdown
 pygments: true
 paginate: 15
-timezone:    UK/London
-future:      true
+timezone: UK/London
+future:   true
 
 # Details for the RSS feed generator
 url:            'http://linuxwell.com'
 author:         'Radek Pazdera'
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+disqus_shortname: linuxwell
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:day/:title/
