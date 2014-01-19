@@ -2,7 +2,7 @@
 layout: post
 title: The Biography of Linus Torvalds
 description: A review of his Just for Fun book from 2001.
-cover: yellow-leaves.jpg
+cover: just-for-fun.jpg
 comments: true
 categories:
 - Books
