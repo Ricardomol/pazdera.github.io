@@ -8,7 +8,31 @@
     <title>linuxwell</title>
     <link>http://linuxwell.com</link>
     <description>by Radek Pazdera</description>
-    <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+    <pubDate>Sat, 25 Jan 2014 00:00:00 +0000</pubDate>
+    <item>
+      <title>Word-wrap in Ruby</title>
+      <link>http://linuxwell.com/2014/01/25/word-wrap-in-ruby/</link>
+      <description>&lt;p&gt;I spent a couple of hours this week making and releasing my very first Ruby
+gem. It is a really small and simple utility to word-wrap text files. That’s
+all what it can do and in fact, the simplicity plays a key role in it.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 25 Jan 2014 00:00:00 +0000</pubDate>
+      <dc:date>2014-01-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Moving Designs</title>
+      <link>http://linuxwell.com/2014/01/18/moving-designs/</link>
+      <description>&lt;p&gt;It’s been almost a year since my last post on this website. That is quite sad.
+There were so many things happening over the course of the past year which
+left me with absolutely no energy left to work on new content to be published
+here. So much has changed, I learned a lot from it, and now, I think, is the
+perfect time to carry on and start writing again.&lt;/p&gt;
+
+</description>
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      <dc:date>2014-01-18T00:00:00+00:00</dc:date>
+    </item>
     <item>
       <title>Developers Conference 2013</title>
       <link>http://linuxwell.com/2013/02/25/developers-conference-2013/</link>
@@ -819,6 +843,6 @@ So, let’s &lt;strong&gt;doo-ooo-ooo&lt;/strong&gt; it!&lt;/p&gt;
       <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
       <dc:date>2011-06-30T00:00:00+00:00</dc:date>
     </item>
-    <dc:date>2013-02-25T00:00:00+00:00</dc:date>
+    <dc:date>2014-01-25T00:00:00+00:00</dc:date>
   </channel>
 </rss>
