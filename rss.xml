@@ -8,7 +8,21 @@
     <title>linuxwell</title>
     <link>http://linuxwell.com</link>
     <description>by Radek Pazdera</description>
-    <pubDate>Sat, 25 Jan 2014 00:00:00 +0000</pubDate>
+    <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
+    <item>
+      <title>FOSDEM 2014</title>
+      <link>http://linuxwell.com/2014/02/09/fosdem-2014/</link>
+      <description>&lt;p&gt;The annual Free and Open Source Developers Meeting (better known as
+&lt;a href=&quot;https://fosdem.org/2014/&quot;&gt;FOSDEM&lt;/a&gt;) took place in Brussels this weekend, and I
+had the privilege to go there and be a part of it. It was my second visit to
+this amazing conference, so I knew there was going to be beer, lots of
+interesting talks, and a huge crowd of developers and hackers interested in
+free software. This post is a summary of what I’ve seen there.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
+      <dc:date>2014-02-09T00:00:00+00:00</dc:date>
+    </item>
     <item>
       <title>Word-wrap in Ruby</title>
       <link>http://linuxwell.com/2014/01/25/word-wrap-in-ruby/</link>
@@ -843,6 +857,6 @@ So, let’s &lt;strong&gt;doo-ooo-ooo&lt;/strong&gt; it!&lt;/p&gt;
       <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
       <dc:date>2011-06-30T00:00:00+00:00</dc:date>
     </item>
-    <dc:date>2014-01-25T00:00:00+00:00</dc:date>
+    <dc:date>2014-02-09T00:00:00+00:00</dc:date>
   </channel>
 </rss>
