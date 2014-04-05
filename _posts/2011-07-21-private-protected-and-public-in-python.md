@@ -41,10 +41,10 @@ class Cup:
     content = None
 
     def fill(self, beverage):
-        content = beverage
+        self.content = beverage
 
     def empty(self):
-        content = None
+        self.content = None
 {% endhighlight %}
 
 We have there a `class Cup`. And here's what we can do with it:
@@ -77,10 +77,10 @@ class Cup:
     _content = None # protected variable
 
     def fill(self, beverage):
-        _content = beverage
+        self._content = beverage
 
     def empty(self):
-        _content = None
+        self._content = None
 {% endhighlight %}
 
 
@@ -116,13 +116,13 @@ class Cup:
     __content = None # private variable
 
     def __init__(self, color):
-        _color = color
+        self._color = color
 
     def fill(self, beverage):
-        __content = beverage
+        self.__content = beverage
 
     def empty(self):
-      __content = None
+      self.__content = None
 {% endhighlight %}
 
 Our cup now can be only filled and poured out by using `fill()` and `empty()`
