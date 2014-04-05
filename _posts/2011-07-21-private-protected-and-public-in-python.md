@@ -122,7 +122,7 @@ class Cup:
         self.__content = beverage
 
     def empty(self):
-      self.__content = None
+        self.__content = None
 {% endhighlight %}
 
 Our cup now can be only filled and poured out by using `fill()` and `empty()`
