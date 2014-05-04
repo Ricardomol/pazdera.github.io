@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A small ww update
-description: "Tiny improvements to a small command-line tool."
+title: Small updates to my gems
+description: "A short summary of the recent changes made to the tco and word_wrap gems."
 cover: bricks.jpg
 comments: true
 categories:
