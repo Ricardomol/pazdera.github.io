@@ -18,7 +18,7 @@ maintain ([tco](http://rubygems.org/gems/tco) and
 [word_wrap](http://rubygems.org/gems/word_wrap)). I pushed a few minor updates
 to both, and in this short post, I would like to sum up what has changed.
 
-## tco
+## tco 0.1.1
 
 Unfortunately, the first release of `tco` came with a nasty little error that
 made the majority of users unable to display their palette using the `-d`
@@ -28,7 +28,6 @@ the palette. While the issue was very quickly discovered and
 [Brandon](https://github.com/brandonpittman) on GitHub, it took me quite a
 while to fix. However, it has now been
 [resolved](https://github.com/pazdera/tco/commit/a3bff189762bef7784fa1452bde792fb88df6ed7).
-The fix is available in version **0.1.1**.
 
 <figure class="align-center">
     <img src="/assets/images/posts/tco-palette.png" alt="Extended palete">
@@ -41,9 +40,9 @@ Apart from that, [Hannes](https://github.com/kwando) added a [simpler
 way](https://github.com/pazdera/tco/commit/fb43c50d86700ce12cd4ce138fc14f72adab386c)
 of reconfiguring the library through passing a block to the `#configure`
 method, rather than calling `#reconfigure`. I like this approach much better
-than the original one. This patch is also available in **0.1.1**.
+than the original one.
 
-## word_wrap
+## word_wrap 0.2.1
 
 After a short while of working on `tco`, I moved on to the [word_wrap
 gem](https://github.com/pazdera/word_wrap) to make a few improvements there
