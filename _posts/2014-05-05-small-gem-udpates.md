@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Small gem updates
-description: "A short summary of the recent changes made to the tco and
-word_wrap gems."
+description: "A short summary of the recent changes made to the tco and word_wrap gems."
 cover: bricks.jpg
 comments: true
 categories:
@@ -14,35 +13,41 @@ tags:
 - tco
 ---
 
-I had a chance to do a bit of work on the two gems that I currently maintain
-([tco](http://rubygems.org/gems/tco) and
-[word_wrap](http://rubygems.org/gems/word_wrap)). So I pushed out a few minor
-updates to both, recently. In this short post, I would like to sum up what has
-happened and where.
+Recently, I had a chance to do a bit of work on the two gems that I currently
+maintain ([tco](http://rubygems.org/gems/tco) and
+[word_wrap](http://rubygems.org/gems/word_wrap)). I pushed a few minor updates
+to both, and in this short post, I would like to sum up what has changed.
 
 ## tco
 
 Unfortunately, the first release of `tco` came with a nasty little error that
 made the majority of users unable to display their palette using the `-d`
 option. The bug showed up only when you forgot to configure the ANSI part of
-the palette. The issue was very quickly
+the palette. While the issue was very quickly discovered and
 [reported](https://github.com/pazdera/tco/issues/3) by
-[Brandon](https://github.com/brandonpittman) on GitHub. It took me a way longer
-than I expected, but the issue has now been
+[Brandon](https://github.com/brandonpittman) on GitHub, it took me quite a
+while to fix. However, it has now been
 [resolved](https://github.com/pazdera/tco/commit/a3bff189762bef7784fa1452bde792fb88df6ed7).
 The fix is available in version **0.1.1**.
+
+<figure class="align-center">
+    <img src="/assets/images/posts/tco-palette.png" alt="Extended palete">
+    <figcaption>
+        The extended palette displayed by tco
+    </figcaption>
+</figure>
 
 Apart from that, [Hannes](https://github.com/kwando) added a [simpler
 way](https://github.com/pazdera/tco/commit/fb43c50d86700ce12cd4ce138fc14f72adab386c)
 of reconfiguring the library through passing a block to the `#configure`
-method. I like this approach much better than the original two-call one. This
-patch is also available in **0.1.1**.
+method, rather than calling `#reconfigure`. I like this approach much better
+than the original one. This patch is also available in **0.1.1**.
 
-# word_wrap
+## word_wrap
 
-After a short while of working on the [tco
-gem](https://github.com/pazdera/tco), I moved on to the [word_wrap
-gem](https://github.com/pazdera/word_wrap) to make a few improvements there.
+After a short while of working on `tco`, I moved on to the [word_wrap
+gem](https://github.com/pazdera/word_wrap) to make a few improvements there
+as well.
 
 Although `ww` is quite a simple utility, I find it to be very useful when
 manipulating plain text documents, such as blog posts or READMEs. You can get
@@ -68,8 +73,8 @@ These were not big changes, but I hope they make the gems more stable and
 easier to use. Special thanks goes to
 [Brandon](https://github.com/brandonpittman),
 [Hannes](https://github.com/kwando), [Chip](https://github.com/chip), and
-[Jikku](https://github.com/JikkuJose), who helped me and contributed to the two
-projects.
+[Jikku](https://github.com/JikkuJose), who helped me and contributed to one
+of the two projects.
 
 If you have any questions, comments, suggestions, or problems, please [let me
 know](https://twitter.com/radekpazdera), I’ll be happy to help you :-).
