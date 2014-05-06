@@ -8,12 +8,39 @@
     <title>linuxwell</title>
     <link>http://linuxwell.com</link>
     <description>by Radek Pazdera</description>
-    <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+    <item>
+      <title>Small gem updates</title>
+      <link>http://linuxwell.com/2014/05/05/small-gem-udpates/</link>
+      <description>&lt;p&gt;Recently, I had a chance to do a bit of work on the two gems that I currently
+maintain (&lt;a href=&quot;http://rubygems.org/gems/tco&quot;&gt;tco&lt;/a&gt; and
+&lt;a href=&quot;http://rubygems.org/gems/word_wrap&quot;&gt;word_wrap&lt;/a&gt;). I pushed a few minor updates
+to both, and in this short post, I would like to sum up what has changed.&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      <dc:date>2014-05-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Terminal colours made simple</title>
+      <link>http://linuxwell.com/2014/03/30/tco/</link>
+      <description>&lt;p&gt;Over the weekend, I pushed out the first release of the
+&lt;a href=&quot;http://rubygems.org/gems/tco&quot;&gt;tco gem&lt;/a&gt;. Its goal is to make
+working with &lt;strong&gt;t&lt;/strong&gt;erminal &lt;strong&gt;co&lt;/strong&gt;lours as simple as possible; hence the name
+&lt;strong&gt;tco&lt;/strong&gt;. The main feature of this tool is the way it works with colours.
+Instead of an oddly organised sequence of colour codes, &lt;strong&gt;tco&lt;/strong&gt; uses simple
+&lt;strong&gt;RGB&lt;/strong&gt;. It provides a library for your Ruby gems and apps, and also a
+standalone command-line tool that you can use anywhere else.&lt;/p&gt;
+
+</description>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
+      <dc:date>2014-03-30T00:00:00+00:00</dc:date>
+    </item>
     <item>
       <title>FOSDEM 2014</title>
       <link>http://linuxwell.com/2014/02/09/fosdem-2014/</link>
       <description>&lt;p&gt;The annual Free and Open Source Developers Meeting (better known as
-&lt;a href=&quot;https://fosdem.org/2014/&quot;&gt;FOSDEM&lt;/a&gt;) took place in Brussels this weekend, and I
+&lt;a href=&quot;https://fosdem.org/2014/&quot;&gt;FOSDEM&lt;/a&gt;) took place in Brussels last weekend, and I
 had the privilege to go there and be a part of it. It was my second visit to
 this amazing conference, so I knew there was going to be beer, lots of
 interesting talks, and a huge crowd of developers and hackers interested in
@@ -857,6 +884,6 @@ So, let’s &lt;strong&gt;doo-ooo-ooo&lt;/strong&gt; it!&lt;/p&gt;
       <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
       <dc:date>2011-06-30T00:00:00+00:00</dc:date>
     </item>
-    <dc:date>2014-02-09T00:00:00+00:00</dc:date>
+    <dc:date>2014-05-05T00:00:00+00:00</dc:date>
   </channel>
 </rss>
