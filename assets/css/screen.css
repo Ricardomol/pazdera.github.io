@@ -380,9 +380,27 @@ margin on the iframe, cause it breaks stuff. */
     height: 60%;
     margin-bottom: 5rem;
     text-align: center;
-    color: #fff;
-    background: #303538 no-repeat center center;
+    color: #50585D;
+    background: #F0E12C no-repeat center center;
     background-size: cover;
+}
+
+.site-head-content .bubble {
+    width: 25rem;
+    border-radius: 1.1em;
+    background: #fff;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.site-head-content .bubble-source {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 0;
+    height: 0;
+    border-bottom: 60px solid transparent;
+    border-left: 45px solid #fff;
 }
 
 .post-head {

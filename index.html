@@ -5,19 +5,24 @@ cover: /assets/images/covers/underground.jpg
 about: 'about.html'
 ---
 
-<header class="site-head"{% if page.cover %} style="background-image: url({{ page.cover }})"{% endif%}>
+<header class="site-head">
     <div class="vertical">
         <div class="site-head-content" class="inner">
-            {% if site.logo %}
+            <div class="bubble">
+                {% if site.logo %}
                 <a class="blog-logo" href="{{ site.baseurl }}">
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
-            {% endif %}
-            <h1 class="blog-title">{{ site.name}}</h1>
-            <h2 class="blog-description">
-                {{ site.description }}.
-                {% if page.about %} <a href='{{site.baseurl}}{{ page.about }}'> About me </a> {% endif %}
-            </h2>
+                {% endif %}
+                <h1 class="blog-title">{{ site.name}}</h1>
+                <h2 class="blog-description">
+                    by
+                    {% if page.about %} <a href='{{site.baseurl}}{{ page.about }}'>{% endif %}
+                    {{ site.author }}
+                    {% if page.about %} </a>{% endif %}
+                </h2>
+            </div>
+            <div class="bubble-source"></div>
         </div>
     </div>
 </header>
