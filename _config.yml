@@ -13,6 +13,12 @@ future:   true
 url:            'http://linuxwell.com'
 author:         'Radek Pazdera'
 
+email:          'radek@pazdera.co.uk'
+twitter:        'radekpazdera'
+github:         'pazdera'
+linkedin:       'pazdera'
+gplus:          '+RadekPazdera'
+
 disqus_shortname: linuxwell
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks

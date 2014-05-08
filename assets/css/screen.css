@@ -29,59 +29,48 @@
    1. Icons - Sets up the icon font and respective classes
    ========================================================================== */
 
-/* Import the font file with the icons in it */
 @font-face {
-    font-family: 'icons';
-    src:url('../fonts/icons.eot');
-    src:url('../fonts/icons.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/icons.woff') format('woff'),
-        url('../fonts/icons.ttf') format('truetype'),
-        url('../fonts/icons.svg#icons') format('svg');
-    font-weight: normal;
-    font-style: normal;
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?-i7h30i');
+	src:url('../fonts/icomoon.eot?#iefix-i7h30i') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?-i7h30i') format('woff'),
+		url('../fonts/icomoon.ttf?-i7h30i') format('truetype'),
+		url('../fonts/icomoon.svg?-i7h30i#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
-/* Apply these base styles to all icons */
 [class^="icon-"], [class*=" icon-"] {
-    font-family: 'icons';
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
-    -webkit-font-smoothing: antialiased;
-    text-decoration: none;
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
-/* Each icon is created by inserting the corret character into the 
-   content of the :before pseudo element. Like a boss. */
-.icon-double-angle-down:before {
+.icon-googleplus:before {
 	content: "\e600";
 }
-.icon-angle-down:before {
+.icon-twitter:before {
 	content: "\e601";
 }
-.icon-linkedin:before {
+.icon-feed:before {
 	content: "\e602";
 }
 .icon-github:before {
-	content: "\e605";
-}
-.icon-envelope-alt:before {
-	content: "\e607";
-}
-.icon-feed:before {
-	content: "\e606";
-}
-.icon-twitter:before {
 	content: "\e603";
 }
-.icon-google-plus:before {
+.icon-mail:before {
 	content: "\e604";
 }
-.icon-facebook:before {
-	content: "\e608";
+.icon-linkedin:before {
+	content: "\e605"
 }
 
 /* ==========================================================================
@@ -751,7 +740,7 @@ margin on the iframe, cause it breaks stuff. */
     position: absolute;
     display: inline-block;
     padding: 5px 15px;
-    border: #EBF2F6 2px solid;
+    border: #EBF2F6 3px solid;
     text-decoration: none;
     border-radius: 10px;
     background-color: #a0d779;
@@ -784,23 +773,53 @@ margin on the iframe, cause it breaks stuff. */
 .site-footer {
     position: relative;
     margin: 8rem 0 0 0;
-    padding: 4rem 0;
-    border-top: #EBF2F6 1px solid;
+    padding: 4rem 0 1.5rem;
+    border-top: #EBF2F6 4px solid;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.3rem;
     line-height: 1.7em;
-    color: #BBC7CC;
+    color: #fff;
     text-align: center;
-    background: #F7FAFB;
+    background: #333;
 }
 
-.site-footer a {
-    color: #BBC7CC;
-    text-decoration: underline;
+.site-footer .icons {
+    margin-bottom: 2.5rem;
 }
 
-.site-footer a:hover {
-    color: #50585D;
+.site-footer .icons span {
+    font-size: 3rem;
+    margin: 0 15px 0 15px;
+}
+
+.site-footer .icons a {
+    text-decoration: none;
+    color: #EBF2F6;
+    transition: color 0.5s ease;
+}
+
+.site-footer .icons .twitter:hover {
+    color: #57acee;
+}
+
+.site-footer .icons .mail:hover {
+    color: #f4b400;
+}
+
+.site-footer .icons .github:hover {
+    color: #171515;
+}
+
+.site-footer .icons .linkedin:hover {
+    color: #4875B4;
+}
+
+.site-footer .icons .gplus:hover {
+    color: #C63D2D;
+}
+
+.site-footer .copyright {
+    color: #4a4a4a;
 }
 
 .poweredby .icon-ghost {
