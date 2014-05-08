@@ -787,10 +787,6 @@ margin on the iframe, cause it breaks stuff. */
     margin-bottom: 27px;
 }
 
-.site-footer .icons i {
-    font-size: 3rem;
-}
-
 .site-footer .icons a {
     text-decoration: none;
     color: #EBF2F6;
@@ -798,6 +794,10 @@ margin on the iframe, cause it breaks stuff. */
     padding: 0 10px 0 10px;
     margin: 0 5px 0 5px;
     font-size: 3rem;
+}
+
+.site-footer .icons .icon-googleplus {
+    font-size: 2.7rem;
 }
 
 .site-footer .icons .icon-twitter:hover {
