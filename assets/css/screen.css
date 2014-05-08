@@ -31,11 +31,11 @@
 
 @font-face {
 	font-family: 'icomoon';
-	src:url('../fonts/icomoon.eot?-i7h30i');
-	src:url('../fonts/icomoon.eot?#iefix-i7h30i') format('embedded-opentype'),
-		url('../fonts/icomoon.woff?-i7h30i') format('woff'),
-		url('../fonts/icomoon.ttf?-i7h30i') format('truetype'),
-		url('../fonts/icomoon.svg?-i7h30i#icomoon') format('svg');
+	src:url('../fonts/icomoon.eot?v8f9xl');
+	src:url('../fonts/icomoon.eot?#iefixv8f9xl') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?v8f9xl') format('woff'),
+		url('../fonts/icomoon.ttf?v8f9xl') format('truetype'),
+		url('../fonts/icomoon.svg?v8f9xl#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -54,6 +54,16 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+
+.icon-mail:before {
+	content: "\f0e0";
+}
+.icon-linkedin:before {
+	content: "\f0e1";
+}
+.icon-double-angle-down:before {
+	content: "\f103";
+}
 .icon-googleplus:before {
 	content: "\e600";
 }
@@ -65,12 +75,6 @@
 }
 .icon-github:before {
 	content: "\e603";
-}
-.icon-mail:before {
-	content: "\e604";
-}
-.icon-linkedin:before {
-	content: "\e605"
 }
 
 /* ==========================================================================
@@ -483,10 +487,6 @@ margin on the iframe, cause it breaks stuff. */
 
 .arrow i:hover {
   color: #57A3E8;
-
-  -webkit-box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
-  -moz-box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
-  box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
 }
 
 @media only screen and (min-width: 800px) {
@@ -784,37 +784,39 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .site-footer .icons {
-    margin-bottom: 2.5rem;
+    margin-bottom: 27px;
 }
 
-.site-footer .icons span {
+.site-footer .icons i {
     font-size: 3rem;
-    margin: 0 15px 0 15px;
 }
 
 .site-footer .icons a {
     text-decoration: none;
     color: #EBF2F6;
-    transition: color 0.5s ease;
+    transition: color 0.3s ease;
+    padding: 0 10px 0 10px;
+    margin: 0 5px 0 5px;
+    font-size: 3rem;
 }
 
-.site-footer .icons .twitter:hover {
+.site-footer .icons .icon-twitter:hover {
     color: #57acee;
 }
 
-.site-footer .icons .mail:hover {
+.site-footer .icons .icon-mail:hover {
     color: #f4b400;
 }
 
-.site-footer .icons .github:hover {
+.site-footer .icons .icon-github:hover {
     color: #171515;
 }
 
-.site-footer .icons .linkedin:hover {
+.site-footer .icons .icon-linkedin:hover {
     color: #4875B4;
 }
 
-.site-footer .icons .gplus:hover {
+.site-footer .icons .icon-googleplus:hover {
     color: #C63D2D;
 }
 
