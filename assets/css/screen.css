@@ -153,6 +153,7 @@ a {
 
 a:hover {
     color: #57A3E8;
+    /*color: #F0E12C;*/
 }
 
 h1 a, h2 a, h3 a,
@@ -805,7 +806,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .site-footer .icons .icon-mail:hover {
-    color: #f4b400;
+    color: #F0E12C;
 }
 
 .site-footer .icons .icon-github:hover {
@@ -820,22 +821,9 @@ margin on the iframe, cause it breaks stuff. */
     color: #C63D2D;
 }
 
-.site-footer .copyright {
+.site-footer .copyright, .site-footer .poweredby {
     color: #4a4a4a;
-}
-
-.poweredby .icon-ghost {
-    font-weight: 700;
-    text-decoration: none;
-}
-
-.poweredby .icon-ghost:hover {
-    text-decoration: none;
-}
-
-.poweredby .icon-ghost:before {
-    font-size: 1rem;
-    margin-right: 0.2em;
+    font-size: 1.22rem;
 }
 
 /* The subscribe icon on the footer */
