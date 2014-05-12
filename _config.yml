@@ -10,7 +10,7 @@ timezone: UK/London
 future:   true
 
 # Details for the RSS feed generator
-url:            'http://linuxwell.com'
+url:            'http://broken.build'
 author:         'Radek Pazdera'
 
 email:          'radek@pazdera.co.uk'

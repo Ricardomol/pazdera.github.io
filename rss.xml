@@ -5,10 +5,24 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>linuxwell</title>
+    <title>broken.build</title>
     <link>http://linuxwell.com</link>
     <description>by Radek Pazdera</description>
-    <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+    <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+    <item>
+      <title>Debian Repository Manager</title>
+      <link>http://linuxwell.com/2014/05/12/dr/</link>
+      <description>&lt;p&gt;Releasing your own software packages for Debian-based distributions is really
+not easy. Apart from at least basic knowledge of the packaging conventions,
+you have to be familiar with several different tools and know how they work
+together. At &lt;a href=&quot;http://kano.me/&quot;&gt;Kano&lt;/a&gt;, we push new code up to several times
+a day, so we made a tool to minimise the packaging overhead in our development
+cycle. It’s called &lt;strong&gt;dr&lt;/strong&gt; and we open-sourced it just last week.&lt;/p&gt;
+
+</description>
+      <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+      <dc:date>2014-05-12T00:00:00+00:00</dc:date>
+    </item>
     <item>
       <title>Small gem updates</title>
       <link>http://linuxwell.com/2014/05/05/small-gem-udpates/</link>
@@ -884,6 +898,6 @@ So, let’s &lt;strong&gt;doo-ooo-ooo&lt;/strong&gt; it!&lt;/p&gt;
       <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
       <dc:date>2011-06-30T00:00:00+00:00</dc:date>
     </item>
-    <dc:date>2014-05-05T00:00:00+00:00</dc:date>
+    <dc:date>2014-05-12T00:00:00+00:00</dc:date>
   </channel>
 </rss>
