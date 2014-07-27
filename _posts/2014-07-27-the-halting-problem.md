@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Halting Problem
-description: "And other things computers cannot solve."
+description: "And other things computers cannot solve"
 cover: turing.jpg
 comments: true
 categories:
