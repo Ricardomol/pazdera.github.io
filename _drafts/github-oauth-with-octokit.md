@@ -92,7 +92,7 @@ if client.scopes(access_token).include? 'user:email'
 end
 {% endhighlight %}
 
-## The Full Source
+## The Complete Source
 
 Here is the full source of the example above that I tested.
 
@@ -183,6 +183,8 @@ To use the above app, you'll also need to have the following `views/email.erb` t
   </body>
 </html>
 {% endhighlight %}
+
+All you need to do is to run the application using the `ruby app.rb` command and point your favourite browser to `localhost:4567`. Also, don't forget to set the `GH_APP_CLIENT_ID` and `GH_APP_SECRET_ID` environment variables with you application's credentials.
 
 ## Summary
 
