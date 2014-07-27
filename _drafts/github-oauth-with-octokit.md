@@ -186,4 +186,4 @@ To use the above app, you'll also need to have the following `views/email.erb` t
 
 ## Summary
 
-That's it, you need about 60 lines of code and you're done. It is that easy to setup a Ruby application to use the Github API. You'd normally use Octokit to make the API calls, but you can use it also to avoid much of the boilerplate that is required during the OAuth process and make it even simpler for yourself.
+That's it, you need about 60 lines of code and you're done. It is that easy to setup a Ruby application to use the Github API. You'd normally use Octokit to make the API calls, but you can use the same library to avoid much of the boilerplate that is required during the OAuth process and make it even simpler for yourself.
