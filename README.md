@@ -1,6 +1,6 @@
-# Linuxwell
+# broken.build
 
-These are the sources of the [Linuxwell website](http://linuxwell.com). The
+These are the sources of the [broken.build website](http://broken.build). The
 theme is based on Rosario's port of the Ghost default Casper theme. I added
 some minor things to it and of course my content.
 
