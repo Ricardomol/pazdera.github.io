@@ -4,7 +4,7 @@ description: "by Radek Pazdera"
 meta_description: "A blog about Linux, programming, and tech in general."
 
 markdown: kramdown
-pygments: true
+highligher: true
 paginate: 15
 timezone: UK/London
 future:   true
