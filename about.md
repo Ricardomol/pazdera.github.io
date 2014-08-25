@@ -30,7 +30,7 @@ Starting early in 2012 until late 2013, I had the privilege to be a part of
 In mid-2012, I started working on a project within the ext4 file system with
 Lukas Czerner. My goal was to optimize the way it stores directories on disk.
 
-There are also several open projects I developed myself. The latest addition
+There are also several open projects I developed on my own. The latest addition
 being fsgraph, a tool for file systems benchmarking and analysis. The
 languages I use the most are C, C++, Python, Ruby, and Bash.
 
