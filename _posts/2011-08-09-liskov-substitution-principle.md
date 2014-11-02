@@ -21,7 +21,7 @@ share: true
 comments: true
 ---
 Another principle of object-oriented software design, the **L** in
-[SOLID](http://linuxwell.wordpress.com/2011/08/05/solid-object-oriented-design/
+[SOLID](/2011/08/05/solid-object-oriented-design/
 "SOLID Object-Oriented Design"), the **Liskov Substitution Principle**! But
 first a little background and some theory (feel free to skip right to the
 practical part of the post). The principle is called after [Barbara
@@ -138,7 +138,7 @@ Inheritance is very powerful and important concept in object-oriented design.
 But it's also easy to get it dead wrong. The **Liskov Substitution Principle**
 should make you thing more about the relationship, when you create one and help
 avoid eventual
-[oh-moment](http://linuxwell.wordpress.com/2011/08/05/the-oh-moment/ "The
+[oh-moment](/2011/08/05/the-oh-moment/ "The
 ‘Oh’ Moment") coming your way.
 
 ## Sources

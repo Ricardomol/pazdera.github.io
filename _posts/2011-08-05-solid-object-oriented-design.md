@@ -25,19 +25,19 @@ the early 2000s which stands for five basic principles of object-oriented
 programming and design. What are these principles?
 
 - **SRP** -- [Single responsibility
-principle](http://linuxwell.com/2011/08/08/single-responsibility-principle/
+principle](/2011/08/08/single-responsibility-principle/
 "Single Responsibility Principle")
 - **OCP** -- [ Open/Closed
-principle](http://linuxwell.com/2011/08/04/openclosed-principle-in-software-design/
+principle](/2011/08/04/openclosed-principle-in-software-design/
 "Open/Closed Principle in Software Design")
 - **LSP** -- [Liskov substitution
-principle](http://linuxwell.com/2011/08/09/liskov-substitution-principle/
+principle](/2011/08/09/liskov-substitution-principle/
 "Liskov Substitution Principle")
 - **ISP** -- [Interface segregation
-principle](http://linuxwell.com/2011/08/12/interface-segregation-principle-in-software-design/
+principle](/2011/08/12/interface-segregation-principle-in-software-design/
 "Interface Segregation Principle in Software Design")
 - **DIP** -- [Dependency inversion
-principle](http://linuxwell.com/2011/08/10/dependency-inversion-principle/
+principle](/2011/08/10/dependency-inversion-principle/
 "Dependency Inversion Principle")
 
 The principles (or guidelines), when applied together intend to make it more

@@ -91,7 +91,7 @@ it's not and therefore the language is not regular (since Myhill-Nerode theorem
 is an equivalence).
 
 In this case, the most elegant way is [proof by
-contradiction](http://linuxwell.wordpress.com/2011/10/24/theorem-proving-in-mathematics/
+contradiction](/2011/10/24/theorem-proving-in-mathematics/
 "Theorem Proving in Mathematics"). We will show, that
 _L_ = { _a<sup>n</sup>b<sup>n</sup>_ | _n_ >= 0 } is not reglar.
 

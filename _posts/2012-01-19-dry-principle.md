@@ -78,6 +78,6 @@ how that works :).
 ## Sources
 
 - [1] [Hunt A., Thomas D.. The Pragmatic Programmer. Addison Wesley.
-1999.](http://linuxwell.wordpress.com/2011/10/24/the-pragmatic-programmer/)
+1999.](/2011/10/24/the-pragmatic-programmer/)
 - [2] [DRY @wiki](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 

@@ -258,7 +258,7 @@ def main():
 
 ## Summary
 The Bridge pattern is very close to the
-[Adapter](http://linuxwell.wordpress.com/2011/08/15/design-patterns-adapter/
+[Adapter](/2011/08/15/design-patterns-adapter/
 "Design Patterns: Adapter") by it's structure, but there's a huge difference in
 semantics. Bridge is designed up-front to let the abstraction and the
 implementation vary independently. Adapter is retrofitted to make unrelated

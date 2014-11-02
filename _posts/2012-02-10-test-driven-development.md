@@ -27,7 +27,7 @@ regression or unit) you just try stuff and see what happens. And it's usually
 accompanied by glass shattering sounds and echoes of screaming people.
 
 There is a metaphor (according to Steve McConnell in [Code
-Complete](http://linuxwell.com/2011/08/29/code-complete/ "Code Complete!")) for
+Complete](/2011/08/29/code-complete/ "Code Complete!")) for
 software development that describes the process as drowning in tar pits with
 dinosaurs. I was a bit skeptical towards this metaphor at first, but it's damn
 accurate when you code, but don't test.

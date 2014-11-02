@@ -20,7 +20,7 @@ share: true
 comments: true
 ---
 Single responsibility principle, or **SRP** is another of the [SOLID
-guidelines](http://linuxwell.wordpress.com/2011/08/05/solid-object-oriented-design/
+guidelines](/2011/08/05/solid-object-oriented-design/
 "SOLID Object-Oriented Design") for software designers. It's especially useful
 in object-oriented design. The name suggests, that it will have something to do
 with decomposing the problem up to the point, where each entity in the system

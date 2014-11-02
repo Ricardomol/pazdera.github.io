@@ -46,7 +46,7 @@ There are three participants in the prototype pattern:
 You also need a place where all the prototypes will be stored. A good practice
 is using a **factory class** that will cover the initial prototype setup  and
 will handle the cloning operations. This might remind you of the [abstract
-factory](http://linuxwell.wordpress.com/2011/07/24/design-patterns-abstract-factory/
+factory](/2011/07/24/design-patterns-abstract-factory/
 "Design Patterns: Abstract Factory") design pattern. This is because they both
 are creational patterns and can be used to achieve the same behavior. The thing
 about prototype is that, you can dynamically change the prototype instance

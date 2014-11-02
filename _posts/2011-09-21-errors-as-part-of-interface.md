@@ -11,7 +11,7 @@ tags:
 - good pracice
 - programming
 ---
-I was writing [this code](https://github.com/astro-/pop3client "pop3client")
+I was writing [this code](https://github.com/pazdera/pop3client "pop3client")
 the other day. It's a very small program -- a POP3 client that downloads
 messages. And I just couldn't come up with an easy and consistent way to report
 errors. I wanted something lightweight, but what actually makes sense. I was
@@ -21,7 +21,7 @@ like that one bit ...
 
 But worry no longer! Steve McConnell came to aid a coder in distress once
 again. I looked into my new copy of [Code
-Complete](http://linuxwell.wordpress.com/2011/08/29/code-complete/) and here's
+Complete](/2011/08/29/code-complete/) and here's
 what I found:
 
 > Throw exceptions at the right level of abstraction.

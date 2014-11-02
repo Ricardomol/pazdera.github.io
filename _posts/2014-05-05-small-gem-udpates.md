@@ -51,7 +51,7 @@ as well.
 Although `ww` is quite a simple utility, I find it to be very useful when
 manipulating plain text documents, such as blog posts or READMEs. You can get
 more information about this gem from one of my [previous
-posts](http://linuxwell.com/2014/01/25/word-wrap-in-ruby/) on this website, if
+posts](/2014/01/25/word-wrap-in-ruby/) on this website, if
 you're interested.
 
 But one thing that really bothered me was the fact that the output was always

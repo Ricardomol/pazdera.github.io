@@ -11,7 +11,7 @@ tags:
 - formal languages
 - grammars
 ---
-The [last post](http://linuxwell.wordpress.com/2011/09/23/strings-in-computer-science/
+The [last post](/2011/09/23/strings-in-computer-science/
 "Strings in Couputer Science") was about strings, so now it's the right time to
 learn something something about **languages** too.
 
@@ -83,7 +83,7 @@ language is a **set** of **sentences** (or words) and the operations that we
 define originate from these two areas. We have some set operations like
 **union**, **intersection**, **complement** as for generic sets. And we have
 abstractions for
-[string operations](http://linuxwell.wordpress.com/2011/09/23/strings-in-computer-science/
+[string operations](/2011/09/23/strings-in-computer-science/
 "Strings in Computer Science") like **concatenation** (notice, that it's
 somewhat similar to cartesian product), **language power** and **iteration**.
 Anyway, these couple of operations is nowhere near to the complete list of all

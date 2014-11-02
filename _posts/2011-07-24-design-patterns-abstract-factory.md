@@ -24,7 +24,7 @@ I'm trying to keep up the tempo and do a design pattern a day, so here goes
 another one! Today it's
 [abstract factory](http://sourcemaking.com/design_patterns/abstract_factory).
 I wrote a post about the
-[factory method](http://linuxwell.wordpress.com/2011/07/22/design-patterns-factory-method/)
+[factory method](/2011/07/22/design-patterns-factory-method/)
 yesterday and this one (as you can guess) is somewhat similar.
 
 What exactly is an **abstract factory**? It's from the creational patterns

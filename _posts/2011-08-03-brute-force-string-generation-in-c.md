@@ -11,7 +11,7 @@ tags:
 - C++
 ---
 Earlier this week, I posted an
-[article](http://linuxwell.wordpress.com/2011/08/02/string-generation-for-brute-force-attacks/
+[article](/2011/08/02/string-generation-for-brute-force-attacks/
 "String Generation for Brute-force Attacks") about string generation for
 brute-force attacks and a couple of example solutions. I emphasized, that the
 key aspect of brute-force is speed. We want to try as many combinations of

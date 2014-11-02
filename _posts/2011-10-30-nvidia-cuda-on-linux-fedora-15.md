@@ -31,7 +31,7 @@ One of the biggest issues in with CUDA is that it officially supports only
 where there is **gcc-4.6** by default and you need to compile the older version
 yourself. I posted series of steps to compile gcc from sources in a separate
 article [Multiple Versions of gcc on Fedora
-15](http://linuxwell.wordpress.com/2011/10/30/multiple-versions-of-gcc-on-fedora-15/
+15](/2011/10/30/multiple-versions-of-gcc-on-fedora-15/
 "Multiple Versions of gcc on Fedora 15").
 
 ## Drivers
