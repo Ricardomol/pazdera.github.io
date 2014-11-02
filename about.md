@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me 
+title: About me
 ---
 
-Hi, I'm Radek, a 24 years young open source enthusiast based in London.
+Hi, I'm Radek, a 25 years young software engineer based in London.
 
 <figure style="width: 30%; float: right; margin: 10px 0px 0px 20px;">
 	<a href="/assets/images/vut_logo.png">

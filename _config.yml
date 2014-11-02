@@ -1,7 +1,7 @@
 name: broken.build
 title: Broken Build
 description: "by Radek Pazdera"
-meta_description: "A blog about Linux, programming, and tech in general."
+meta_description: "A blog about programming, mobile and tech in general."
 
 markdown: kramdown
 highligher: true
