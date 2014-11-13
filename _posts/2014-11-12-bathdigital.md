@@ -17,7 +17,7 @@ Festival](http://2014.bathdigitalfestival.com/) was held, well, in Bath,
 starting on Monday 27th October. Many events took place during the Festival,
 focusing on creativity, entrepreneurship and technology. I got a chance to
 attend the closing night on Tuesday the 4th. The theme of the evening was
-**Digital for Good**, and indeed, it was very good.
+**Digital for Good**, and it indeed was very good.
 
 The opening talk was delivered by **Doug Laughlen**, one of the organisers of
 the festival. He introduced [Craneworks](http://craneworks.org/our-vision/), a
