@@ -34,7 +34,7 @@
                 <a class="icon-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin }}"></a>
                 <a class="icon-googleplus" href="https://plus.google.com/{{ site.gplus }}?rel=author"></a>
             </section>
-            <section class="copyright">Copyright <a href="{{ site.baseurl }}">{{ site.author }}</a> &copy; {{date format="YYYY"}} &bull; All rights reserved.</section>
+            <section class="copyright">Copyright <a href="{{ site.baseurl }}">{{ site.author }}</a> &copy; {{page.date | date: "%y" }} &bull; All rights reserved.</section>
             <section class="poweredby">Made with Jekyll, based on the <a href="http://github.com/rosario/kasper">Kasper theme</a>.</section>
         </div>
     </footer>
