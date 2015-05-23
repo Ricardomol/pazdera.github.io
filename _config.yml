@@ -23,3 +23,6 @@ disqus_shortname: linuxwell
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:day/:title/
+
+gems:
+  - 'jekyll-paginate'
