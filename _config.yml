@@ -24,5 +24,12 @@ disqus_shortname: linuxwell
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:day/:title/
 
+exclude:
+  - "bower_components"
+  - "bower.json"
+  - "node_modules"
+  - "package.json"
+  - "gulpfile.js"
+
 gems:
   - 'jekyll-paginate'
