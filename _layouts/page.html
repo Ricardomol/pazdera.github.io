@@ -3,17 +3,19 @@ layout: default
 ---
 
 <main class="content" role="main">
-    <article class="post">
-        <header class="post-header">
-            <a id="blog-logo" href="{{site.baseurl}}">
-                {% if site.logo %}
+    <header class="post-header">
+            {% if site.logo %}
+                <a id="blog-logo" href="/">
                     <img src="{{site.logo}}" alt="{{ site.name }}" />
-                {% else %}
-                    <span class="blog-title">{{ site.name }}</span>
-                {%endif%} 
-            </a>
-        </header>
-
+                </a>
+            {% else %}
+                <span class="blog-title">
+                    &#171; <a id="blog-logo" href="/">{{ site.name }}</a>
+                </span>
+            {%endif%} 
+        </a>
+    </header>
+    <article class="post">
         <h1 class="post-title">{{ page.title }}</h1>
 
         <section class="post-content">

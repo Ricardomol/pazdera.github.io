@@ -1,12 +1,6 @@
 /* Rosario. I've added and changed few things. Feel free to change it as you like */
 
-/* Font size of 2.0 is too big, I'll reduce it */
-body {font-size: 1.9rem;}
-
 .site-head a { text-decoration: none; }
-
-/* The font is too large in the post view. Revert to small size*/
-.post-header .blog-title {font-size:inherit;}
 
 /* Reduce font size and add line-height*/
 pre{
@@ -15,7 +9,7 @@ pre{
 }
 
 /* Author styling */
-.author {margin-bottom:1em;}
+.author {margin-bottom:3em;}
 .author header{
 	float:left;
 	width: 80px;
@@ -68,26 +62,6 @@ figure:after {
 }
 figure img {
   margin-bottom: 10px;
-}
-figure a img {
-  -webkit-transform: translate(0, 0);
-  -moz-transform: translate(0, 0);
-  -ms-transform: translate(0, 0);
-  -o-transform: translate(0, 0);
-  transform: translate(0, 0);
-  -webkit-transition-duration: 0.25s;
-  -moz-transition-duration: 0.25s;
-  -o-transition-duration: 0.25s;
-}
-figure a img:hover {
-  -webkit-transform: translate(0, -5px);
-  -moz-transform: translate(0, -5px);
-  -ms-transform: translate(0, -5px);
-  -o-transform: translate(0, -5px);
-  transform: translate(0, -5px);
-  -webkit-box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
-  -moz-box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
-  box-shadow: 0 0 10px rgba(34, 34, 34, 0.2);
 }
 
 figure.full img {

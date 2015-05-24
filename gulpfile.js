@@ -45,7 +45,10 @@ gulp.task('browser-sync', function() {
 
 gulp.task('default', ['bower', 'jekyll', 'browser-sync'], function() {
     // --> CSS
-    //gulp.watch(srcStylesheets+"**", ['jekyll']);
+    gulp.watch(dstCSS + "**", ['jekyll']);
+
+    // --> JS
+    gulp.watch(dstJS + "*.js", ['jekyll']);
 
     // --> Vendor packages
     gulp.watch(bowerBase + "**", ['jekyll']);
@@ -57,12 +60,9 @@ gulp.task('default', ['bower', 'jekyll', 'browser-sync'], function() {
         path.join(root, '_layouts/*.html'),
         path.join(root, '_drafts/*,md'),
         path.join(root, '_posts/*.md'),
-        path.join(root, '_config.md')
+        path.join(root, '_config.yml')
     ], ['jekyll']);
 
     // --> Ruby
     //gulp.watch(path.join(dist, '*/*.rb'), ['jekyll']);
-
-    // --> JS
-    //gulp.watch(srcJavascripts+"*.js", ['jekyll']);
 });

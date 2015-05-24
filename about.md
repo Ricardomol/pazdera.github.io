@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 ---
 
 Hi, I'm Radek, a 25 years young software engineer based in London.

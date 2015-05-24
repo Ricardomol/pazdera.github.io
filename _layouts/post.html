@@ -3,49 +3,56 @@ layout: default
 disqus: true
 archive: false
 ---
+
+<header class="post-header">
+        {% if site.logo %}
+        <a id="blog-logo" href="/">
+            <img src="{{site.logo}}" alt="{{ site.name }}" />
+        </a>
+        {% else %}
+        <div class="blog-title">
+            &#171; <a id="blog-logo" href="/">{{ site.name }}</a> <!-- &#x276e; -->
+        </div>
+        {%endif%}
+    </a>
+{% unless page.cover %}
+    <h1 class="post-title">{{ page.title }}</h1>
+{% endunless %}
+</header>
+
 {% if page.cover %}
-<header id="cover" class="post-head"
-        style="background-image: url(/assets/images/covers/{{ page.cover }})">
-    <div class="vertical">
-        <div id="cover-content" class="cover-content fade" class="inner">
+<div class="post-feature-image">
+    <div id="cover" class="post-head"
+            style="background-image: url(/assets/images/covers/{{ page.cover }})">
+    </div>
+    <div class="feature-overlay tinted">
+        <div id="cover-content" class="cover-content vertical" class="inner">
             <h1 id="cover-header" class="cover-title">
                 {{ page.title }}
             </h1>
-            {% if page.description %}
+            <div class="blog-title-source"></div>
+            <!--{% if page.description %}
             <h2 class="cover-description">
                 {{ page.description }}
-            </h2>
+            </h2>-->
             {% endif %}
+            <div class="arrow"><i class="icon-arrow-down"></i></div>
         </div>
-        <div class="arrow"><i class="icon-double-angle-down"></i></div>
     </div>
-</header>
+</div>
 {% endif %}
 
 <main class="content" role="main">
     <article class="post" id="start">
-        <header class="post-header" id="start">
-            <a id="blog-logo" href="/">
-                {% if site.logo %}
-                    <img src="{{site.logo}}" alt="{{ site.name }}" />
-                {% else %}
-                    <span class="blog-title">{{ site.name }}</span>
-                {%endif%}
-            </a>
-        </header>
-
-        <span class="post-meta">
-        	<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
-        	{% if post.categories %}
-        		on
-	        	{% for category in page.categories %}
-	        	    {{category}}
-	        	{% endfor %}
-	        {% endif %}
-       	</span>
-
-        <h1 class="post-title">{{ page.title }}</h1>
-
+    <span class="post-meta">
+        <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
+        {% if post.categories %}
+            on
+            {% for category in page.categories %}
+                {{category}}
+            {% endfor %}
+        {% endif %}
+    </span>
         <section class="post-content">
             {{content}}
         </section>
@@ -92,7 +99,7 @@ archive: false
                     onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-googleplus" href="https://plus.google.com/share?url={{page.url}}"
+                <a class="icon-google-plus" href="https://plus.google.com/share?url={{page.url}}"
                    onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>

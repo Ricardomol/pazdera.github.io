@@ -1,11 +1,11 @@
-name: broken.build
-title: Broken Build
+name: radek.io
+title: Radek Pazdera
 description: "by Radek Pazdera"
 meta_description: "A blog about programming, mobile and tech in general."
 
 markdown: kramdown
 highligher: true
-paginate: 15
+paginate: 100
 timezone: UK/London
 future:   true
 
