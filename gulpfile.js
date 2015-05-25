@@ -58,6 +58,7 @@ gulp.task('default', ['bower', 'jekyll', 'browser-sync'], function() {
         path.join(root, '*.html'),
         path.join(root, '*.md'),
         path.join(root, '_layouts/*.html'),
+        path.join(root, '_includes/*.html'),
         path.join(root, '_drafts/*,md'),
         path.join(root, '_posts/*.md'),
         path.join(root, '_config.yml')
