@@ -10,7 +10,7 @@ let's keep in touch!
 
 {% include signup.html head="radek.io newsletter" %}
 
-Your email is safe on my this list:
+Your email is safe on this list:
 
 * Your address will never be disclosed to a third party.
 * I won't send you any spam.
