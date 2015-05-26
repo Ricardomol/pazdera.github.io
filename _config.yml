@@ -10,7 +10,8 @@ timezone: UK/London
 future:   true
 
 # Details for the RSS feed generator
-url:            'http://broken.build'
+url:            'http://radek.io'
+baseurl:        '/'
 author:         'Radek Pazdera'
 
 email:          'me@radek.io'
