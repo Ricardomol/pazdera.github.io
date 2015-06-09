@@ -25,9 +25,7 @@ only showing the ones you're participating in. Each notification has an icon
 that indicates whether it's an issue or a pull request and whether it remains
 open/unmerged.
 
-{% include figure.html img="5-useful-filters/notif-centre.png"
-           alt="GitHub's notification centre"
-           caption="GitHub's notification centre" %}
+{% include figure.html img="5-useful-filters/notif-centre.png" alt="GitHub's notification centre" caption="GitHub's notification centre" %}
 
 All these are really useful and reduce the time it takes to go through the list
 every day. For example, you might skip the closed and merged ones, quickly skim
@@ -43,9 +41,7 @@ surely isn't fun. Luckily for me, some of the notification centre goodness can
 be brought into the mailbox through **filters**. Check out the ones I use with
 Gmail.
 
-{% include figure.html img="5-useful-filters/tags.png"
-           alt="Tagged mailbox" width="75%"
-           caption="<strong>Gmail</strong>: Tagged notifications in my inbox" %}
+{% include figure.html img="5-useful-filters/tags.png" alt="Tagged mailbox" width="75%" caption="<strong>Gmail</strong>: Tagged notifications in my inbox" %}
 
 
 ## 1. Tag all notifications from GitHub
@@ -60,9 +56,7 @@ To set this up, just filter the **From:** field for
 
 `from:(notifications@github.com)`
 
-{% include figure.html img="5-useful-filters/all.png"
-           alt="Gmail filter settings" width="75%"
-           caption="<strong>Gmail</strong>: Mark all GitHub notifications" %}
+{% include figure.html img="5-useful-filters/all.png" alt="Gmail filter settings" width="75%" caption="<strong>Gmail</strong>: Mark all GitHub notifications" %}
 
 ## 2. Assignments
 
@@ -79,9 +73,7 @@ In my case, the filter for Gmail looks like this:
 
 Search for **Assigned to @your-handle** string.
 
-{% include figure.html img="5-useful-filters/assignment.png"
-           alt="Gmail filter settings" width="75%"
-           caption="<strong>Gmail</strong>: Mark assignments" %}
+{% include figure.html img="5-useful-filters/assignment.png" alt="Gmail filter settings" width="75%" caption="<strong>Gmail</strong>: Mark assignments" %}
 
 Unfortunately, there are a few limitations to this approach. You won't be
 notified when self-assigning an issue and the thread won't be tagged properly
@@ -100,9 +92,7 @@ body. I use the following:
 
 `from:(notifications@github.com) @pazdera`
 
-{% include figure.html img="5-useful-filters/mention.png"
-           alt="Gmail filter settings" width="75%"
-           caption="<strong>Gmail</strong>: Highlight mentions" %}
+{% include figure.html img="5-useful-filters/mention.png" alt="Gmail filter settings" width="75%" caption="<strong>Gmail</strong>: Highlight mentions" %}
 
 ## 4. Merged
 
@@ -115,9 +105,7 @@ relevant email thread as **Merged**. Here's mine:
 
 `from:(notifications@github.com) Merged `
 
-{% include figure.html img="5-useful-filters/merged.png"
-           alt="Gmail filter settings" width="75%"
-           caption="<strong>Gmail</strong>: Mark merged pull requests" %}
+{% include figure.html img="5-useful-filters/merged.png"  alt="Gmail filter settings" width="75%" caption="<strong>Gmail</strong>: Mark merged pull requests" %}
 
 With the lack of support for regular expressions with Gmail, this one is a bit
 tricky. It will match when someone mentions the word 'Merged' in a comment.
@@ -134,9 +122,7 @@ straight from the list view.
 
 `from:(notifications@github.com) Closed \#`
 
-{% include figure.html img="5-useful-filters/closed.png"
-           alt="Gmail filter settings" width="75%"
-           caption="<strong>Gmail</strong>: Tag closed issues" %}
+{% include figure.html img="5-useful-filters/closed.png"  alt="Gmail filter settings" width="75%" caption="<strong>Gmail</strong>: Tag closed issues" %}
 
 These were the five filters that help me get through the bulk of GitHub
 notifications in my inbox. What do you use to keep yourself from spending hours
