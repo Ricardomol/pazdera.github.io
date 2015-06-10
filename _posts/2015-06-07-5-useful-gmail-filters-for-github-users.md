@@ -15,9 +15,9 @@ tags:
 
 Trying to keep up with several projects on GitHub? You're probably no stranger
 to receiving many notifications. Issues were opened, comments posted and pull
-requests merged. Some require action, some things you should know about and
-others are probably just noise. Here are a few Gmail filters I use to get
-through my notifications quicker.
+requests merged. Some require action from you, some things you should know
+about and others are probably just noise. Here are a few Gmail filters I use
+to get through my notifications quicker.
 
 GitHub has its own [notification centre](https://github.com/notifications
 "GitHub's notification centre") that allows filtering per-project as well as
@@ -29,17 +29,16 @@ open/unmerged.
 
 All these are really useful and reduce the time it takes to go through the list
 every day. For example, you might skip the closed and merged ones, quickly skim
-through the headers where you haven't been tagged on and focus on the ones that
-you're participating in.
+through the headers of issues where you haven't been tagged and focus on the
+ones that you're participating in.
 
-But what if you prefer dealing with the notifications via email?  I quite like
-having them in my inbox along with the rest of my messages. That means I've got
-everything in one place, but of course I miss all of the time-saving perks.
+What if you prefer dealing with the notifications via email though? I quite
+like having everything in one place in my inbox. But then of course I miss out
+on all the time-saving perks of the notification centre.
 
-Having to labour through all the messages when half of them is not interesting
-surely isn't fun. Luckily for me, some of the notification centre goodness can
-be brought into the mailbox through **filters**. Check out the ones I use with
-Gmail.
+Having to labour through the notifications one by one wouldn't be very
+productive. Luckily, some of the notification centre goodness can be brought
+into your mailbox using **filters**. These are the ones I use with Gmail.
 
 {% include figure.html img="5-useful-filters/tags.png" alt="Tagged mailbox" width="75%" caption="<strong>Gmail</strong>: Tagged notifications in my inbox" %}
 
