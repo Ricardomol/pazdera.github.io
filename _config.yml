@@ -34,3 +34,15 @@ exclude:
 
 gems:
   - 'jekyll-paginate'
+
+collections:
+  short_urls:
+    output: true
+    permalink: '/p/:path/'
+
+defaults:
+  - scope:
+      path: ""
+      type: short_urls
+    values:
+      layout: redirect
