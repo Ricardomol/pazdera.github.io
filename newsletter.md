@@ -1,6 +1,7 @@
 ---
 layout: page
 head: Newsletter
+permalink: /newsletter/
 ---
 
 I send a weekly tech newsletter about writing, programming and open-source,
@@ -17,5 +18,5 @@ Your email is safe on this list:
 * You can unsubscribe at any time.
 
 <footer class="post-footer">
-    {% include signature.html %}
+{% include signature.html %}
 </footer>
