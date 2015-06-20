@@ -79,7 +79,7 @@ notified when self-assigning an issue and the thread won't be tagged properly
 in that case. Also, if the issue gets reassigned to someone else, the email
 thread will still appear assigned to yourself.
 
-##  3. Mentions
+## 3. Mentions
 
 Probably the most helpful of all, this filter makes it possible to only see
 those messages where you've been explicitly mentioned. Without having to skim
