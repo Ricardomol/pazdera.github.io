@@ -73,34 +73,32 @@ h1, h2, h3,
 h4, h5, h6 {
     text-rendering: optimizeLegibility;
     line-height: 1;
-    margin-top: 0;
+    /*margin-top: 0;*/
     font-family: 'Helvetica', sans-serif;
 }
 
 h1 {
     font-size: 4rem;
-    line-height: 1.2em;
+    line-height: 1.25em;
     letter-spacing: -1px;
 }
 
 h2 {
-    font-size: 3.2rem;
-    line-height: 1.2em;
+    font-size: 3.25rem;
+    line-height: 1.15em;
     letter-spacing: -1px;
-    text-indent: -2px;
-    margin-top: 2rem;
 }
 
 h3 {
-    font-size: 2.8rem;
+    font-size: 2.75rem;
 }
 
 h4 {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
 }
 
 h5 {
-    font-size: 2.1rem;
+    font-size: 2.0rem;
 }
 
 h6 {
@@ -493,7 +491,6 @@ margin on the iframe, cause it breaks stuff. */
 
 .cover-title {
     margin: 10px 0 0 0;
-    font-size: 4.2rem;
     letter-spacing: -1px;
     font-weight: bold;
     font-family: 'Helvetica', sans-serif;
@@ -685,6 +682,14 @@ margin on the iframe, cause it breaks stuff. */
     margin: 3rem 0;
 }
 
+.project h3 {
+    margin-top: 0;
+}
+
+.project :last-child {
+    margin-bottom: 0;
+}
+
 /* Tweak the .post wrapper style */
 .post-template .post {
     margin-top: 0;
@@ -773,6 +778,35 @@ margin on the iframe, cause it breaks stuff. */
 
 .post-footer .share a:hover {
     color: #50585D;
+}
+
+.note {
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.note, .note a {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.note .note-head {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 2.2rem;
+    font-family: 'Source Sans Pro';
+    color: #fff;
+}
+
+.note-green {
+    background-color: #72AD75;
+}
+
+.note-red {
+    background-color: #FC444F;
+}
+
+.note a:hover {
+    color: #fff;
 }
 
 
@@ -994,9 +1028,9 @@ margin on the iframe, cause it breaks stuff. */
     }
 
     .site-head {
-        -webkit-box-sizing: border-box; 
+        -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
-        box-sizing: border-box; 
+        box-sizing: border-box;
     }
 
     .site-head-content .menu ul li a {
@@ -1025,21 +1059,26 @@ margin on the iframe, cause it breaks stuff. */
         padding: 40px 0;
     }
 
+
+    .cover-title {
+        max-width: 80%;
+    }
+
     h1 {
         font-size: 3.5rem;
         text-indent: -2px;
     }
 
     h2 {
-        font-size: 2.8rem;
+        font-size: 2.84rem;
     }
 
     h3 {
-        font-size: 2.5rem;
+        font-size: 2.4rem;
     }
 
     h4 {
-        font-size: 2.1rem;
+        font-size: 2.0rem;
     }
 
 }
