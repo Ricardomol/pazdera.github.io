@@ -3,3 +3,5 @@ _site
 *.swp
 *.swo
 .jekyll-metadata
+node_modules
+bower_components
