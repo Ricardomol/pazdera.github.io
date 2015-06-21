@@ -4,9 +4,9 @@ head: Newsletter
 permalink: /newsletter/
 ---
 
-I send a weekly tech newsletter about writing, programming and open-source,
-featuring my best new content from this site. Hit the subscribe button below
-and let's keep in touch!
+I send a weekly tech newsletter about programming and open-source, featuring
+my best new content from this site. Hit the subscribe button below and let's
+keep in touch!
 
 
 {% include signup.html head="radek.io newsletter" %}
