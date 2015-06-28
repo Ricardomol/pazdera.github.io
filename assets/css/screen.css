@@ -1167,6 +1167,7 @@ margin on the iframe, cause it breaks stuff. */
     .post-footer .share {
         position: static;
         width: auto;
+        margin-bottom: 2rem;
     }
 
     .post-footer .share a {
