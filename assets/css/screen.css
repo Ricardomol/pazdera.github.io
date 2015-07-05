@@ -686,6 +686,16 @@ margin on the iframe, cause it breaks stuff. */
     margin-top: 0;
 }
 
+.project h3 a {
+    color: #4a4a4a;
+    border-color: #eee;
+}
+
+.project h3 a:hover {
+    color: #4a4a4a;
+    border-color: #4a4a4a;
+}
+
 .project :last-child {
     margin-bottom: 0;
 }
@@ -733,12 +743,12 @@ margin on the iframe, cause it breaks stuff. */
     color: #57a3e8; /*#4a4a4a;*/
     text-decoration: none;
     transition: all ease 0.3s;
-    border-bottom: 1px solid #DDEDFB;
+    border-bottom: 1px dotted #DDEDFB;
 }
 
 .post-content a:hover {
     color: #57a3e8;
-    border-bottom: 1px solid #57a3e8;
+    border-bottom: 1px dotted #57a3e8;
     /*color: #f0e12c;*/
 }
 
@@ -764,6 +774,11 @@ margin on the iframe, cause it breaks stuff. */
     font-weight: 300;
 }
 
+.post-footer a {
+    color: #4a4a4a;
+    border-color: #ddd;
+}
+
 /* Create some space to the right for the share links */
 .post-footer .author {
     margin-right: 180px;
@@ -786,6 +801,7 @@ margin on the iframe, cause it breaks stuff. */
     margin: 1.4rem 1.6rem 1.6rem 0;
     color: #BBC7CC;
     text-decoration: none;
+    border: none;
 }
 
 .post-footer .share a:hover {
