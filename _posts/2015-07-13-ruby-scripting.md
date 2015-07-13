@@ -184,5 +184,5 @@ initial expectations, you'll have all the power of Ruby at your disposal.
 
 Can the template be improved or made even simpler? Leave a comment below or
 submit a pull request
-[here](https://github.com/pazdera/scriptster/blob/master/examples/template.rb).
+[here](https://github.com/pazdera/scriptster/blob/master/examples/documented-template.rb).
 
