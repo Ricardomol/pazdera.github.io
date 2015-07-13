@@ -145,6 +145,7 @@ Options:
 DOCOPT
 
 log :info, "Args received: #{args}"
+ls = cmd 'ls', {show_out: true, out_level: :info}
 {% endhighlight %}
 
 While 10 lines of code aren't many, it's still annoying having to remember even
@@ -162,8 +163,9 @@ new-ruby-script()
 }
 {% endhighlight %}
 
-This will download the minimal template from scripster's git repo and start
-editing it (also check out the [documented
+This will download the [minimal
+template](https://github.com/pazdera/scriptster/blob/master/examples/minimal-template.rb)
+from scripster's git repo and start editing it (also check out the [documented
 version](https://github.com/pazdera/scriptster/blob/master/examples/documented-template.rb)
 which includes an overview of the functionality, in case you're as forgetful as
 I am). Just drop it at the end of your `~/.bashrc` or `~/.zshrc` file and
@@ -180,7 +182,7 @@ Using the setup above, you'll be able to get things done with roughly the same
 speed you'd do when using just shell. But in case your program exceeds the
 initial expectations, you'll have all the power of Ruby at your disposal.
 
-Can the template be improved or made simpler? Leave a comment below or submit a
-pull request
+Can the template be improved or made even simpler? Leave a comment below or
+submit a pull request
 [here](https://github.com/pazdera/scriptster/blob/master/examples/template.rb).
 
