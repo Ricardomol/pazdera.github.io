@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Crazy hippies and evil corporations: Open source software in the
-commercial world"
+title: "Crazy hippies and evil corporations: Open source software in the commercial world"
+short_title: "Open source software in the commercial world"
 description: "Open source for business"
 comments: true
 categories:
