@@ -82,27 +82,7 @@ available online. The internet is also home to lots of free data sets to
 practice your skills on. Just take the front pages of all major newspapers and
 get some useful insights off them.
 
-## 4. Management and corporate
-
-Taking part or moving entirely to management is a path many senior programmers
-take in bigger companies. In larger teams, programming is as much
-about people as it is about code and making sure the culture is right is
-really important.
-
-Recruiting good programmers is expensive and losing them even more so. Good
-managers and team leaders are essential to achieving high employee retention.
-Being a programmer yourself will help you better understand your team and
-create an environment where things get done and people are happy.
-
-Management skills are difficult to learn on your own. While there may be plenty
-of resources, becoming a good manager without actually having anybody to manage
-is tricky. Most people move into it gradually by sticking with one company for
-long enough and being proactive in the organisation organisation.
-
-Helping people perform well, grow in their profession and enjoy their work
-is a no small feat and can be incredibly rewarding too.
-
-## 5. Marketing
+## 4. Marketing
 
 Marketing probably wouldn't make it into the TOP3 highest regarded professions
 amongst the software engineering crowd; maybe not even TOP250. And so it may
@@ -129,6 +109,26 @@ that actually need to market to developers. Cloud service providers and
 generally anyone who offers an API has use for dev evangelists and community
 managers. Engineers are a merciless crowd and being one of them gives you much
 higher chances of being heard.
+
+## 5. Management and corporate
+
+Taking part or moving entirely to management is a path many senior programmers
+take in bigger companies. In larger teams, programming is as much
+about people as it is about code and making sure the culture is right is
+really important.
+
+Recruiting good programmers is expensive and losing them even more so. Good
+managers and team leaders are essential to achieving high employee retention.
+Being a programmer yourself will help you better understand your team and
+create an environment where things get done and people are happy.
+
+Management skills are difficult to learn on your own. While there may be plenty
+of resources, becoming a good manager without actually having anybody to manage
+is tricky. Most people move into it gradually by sticking with one company for
+long enough and being proactive in the organisation organisation.
+
+Helping people perform well, grow in their profession and enjoy their work
+is a no small feat and can be incredibly rewarding too.
 
 ## 6. None
 
