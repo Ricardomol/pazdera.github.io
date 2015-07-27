@@ -87,9 +87,9 @@ get some useful insights off them.
 Taking part or moving entirely to management is a path many senior programmers
 take in growing or larger companies. In larger teams, programming is as much
 about people as it is about code and making sure it works is really important.
+
 Recruiting good programmers is expensive and losing them even more so. Good
 managers and team leaders are essential to achieving high employee retention.
-
 Being a programmer yourself will help you better understand your team and
 create an environment where things get done and people are happy.
 
