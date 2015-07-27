@@ -112,12 +112,11 @@ higher chances of being heard.
 
 ## 5. Management and corporate
 
-Taking part or moving entirely to management is a path many senior programmers
-take in bigger companies. In larger teams, programming is as much
-about people as it is about code and making sure the culture is right is
-really important.
+Moving into management is a path many senior developers take in bigger
+companies. In larger teams, programming is as much about people as it is about
+code and creating a good work environment is really important.
 
-Recruiting good programmers is expensive and losing them even more so. Good
+Recruiting good engineers is expensive and losing them even more so. Good
 managers and team leaders are essential to achieving high employee retention.
 Being a programmer yourself will help you better understand your team and
 create an environment where things get done and people are happy.
@@ -125,7 +124,7 @@ create an environment where things get done and people are happy.
 Management skills are difficult to learn on your own. While there may be plenty
 of resources, becoming a good manager without actually having anybody to manage
 is tricky. Most people move into it gradually by sticking with one company for
-long enough and being proactive in the organisation organisation.
+long enough and being proactive in the organisation.
 
 Helping people perform well, grow in their profession and enjoy their work
 is a no small feat and can be incredibly rewarding too.
@@ -150,11 +149,11 @@ good, it's that they can't justify the expense yet.
 
 ## The end
 
-These were a few interesting combinations of software development with other
-skills, but certainly not all of them. As I said in the beginning, software is
-just a solution, a means to an end. By learning about the things that come
-before or after or about the problems the software is solving, your work can
-have much more impact.
+These were a few possible combinations of software development with other
+skills, but the list is far from being exhaustive. Software is just a solution,
+a means to an end and by learning about the things that come before or after
+and about the problems the software is solving, your work can have much bigger
+impact than you ever thought possible.
 
 Did I miss an obvious one? Let me know by posting a comment below or tweeting
 [@radekpazdera](https://twitter.com/radekpazdera).
