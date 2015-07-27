@@ -154,5 +154,5 @@ just a solution, a means to an end. By learning about the things that come
 before or after or about the problems the software is solving, your work can
 have much more impact.
 
- Did I miss an obvious one? Let me know by posting a comment below or tweeting
+Did I miss an obvious one? Let me know by posting a comment below or tweeting
 [@radekpazdera](https://twitter.com/radekpazdera).
