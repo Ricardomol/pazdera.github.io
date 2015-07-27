@@ -85,8 +85,9 @@ get some useful insights off them.
 ## 4. Management and corporate
 
 Taking part or moving entirely to management is a path many senior programmers
-take in growing or larger companies. In larger teams, programming is as much
-about people as it is about code and making sure it works is really important.
+take in bigger companies. In larger teams, programming is as much
+about people as it is about code and making sure the culture is right is
+really important.
 
 Recruiting good programmers is expensive and losing them even more so. Good
 managers and team leaders are essential to achieving high employee retention.
