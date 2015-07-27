@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Secondary skills for software engineers"
-description: "Open source for business"
+description: "Increase your impact as a software developer"
 comments: true
 categories:
 - Programming
@@ -110,8 +110,9 @@ about it, being able to build things and spread the word about them on your own
 can be an extremely valuable combo.
 
 Selling stuff online has never been easier. Using one of the App/Play stores,
-services like Stripe or platforms like PayPal or Gumroad, you take money off
-people's hands with historically low amount of hassle.
+services like [Stripe](https://stripe.com) or platforms like
+[PayPal](https://www.paypal.com) or [Gumroad](https://gumroad.com/), let you
+take money off people's hands with historically low amount of hassle.
 
 The difficult thing is making people want to give them to you, which is
 usually done by solving some of their problems. And there are lots of problems
