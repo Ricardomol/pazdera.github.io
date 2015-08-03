@@ -58,20 +58,18 @@ proprietary libraries.
 
 One of the most important things to consider when picking a licence for your
 project is its scope. Is it a library, dev tool or full-fledged application? If
-it's meant to be used along with other libraries, you need to be much more
-careful of which licence you pick, not to prevent adoption due to compatibility
-issues (more on that in the next section).
+it's meant to be used along with other libraries, you need to be careful which
+licence you pick not due to compatibility issues (more on that in the next section).
 
-For full-fledged applications or products where he primary goal isn't to be
-used with other projects — like an Android app, desktop program or command line
-tool, I'd probably go with a copyleft licence like
+For full-fledged applications or products like an Android app, desktop program or
+command line tool, I'd probably go with a copyleft licence like
 [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html) which gives me an extra
 bit of security that it will always remain open.
 
 When releasing a library or framework to be used by developers in their
 projects, the choice is a bit more difficult. Not allowing them to distribute
 their programs that depend on your library without including the source code
-might prevent companies from using it in their projects, which might slow down
+might prevent companies from using it in their projects, which might prevent
 wider adoption.
 
 Personally, I'd choose a permissive licence in this case, like
@@ -82,6 +80,10 @@ back the changes, it doesn't make much sense for many companies to do that.
 Diverging from master means they would have to bear the maintenance costs which
 usually outweighs the price of any ultra-smart innovation they might have made
 to your code.
+
+[LGPL](http://www.gnu.org/licenses/lgpl-3.0.en.html) isn't a bad choice either.
+It let's other use the compiled version of your library with proprietary code
+while still applying copyleft to the sources of the library itself.
 
 ## Compatibility issues
 
