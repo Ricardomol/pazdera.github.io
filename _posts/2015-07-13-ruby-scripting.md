@@ -51,12 +51,15 @@ are incredibly easy to add using docopt. You'll know how to use docopt right
 when you first try it. Here's an example:
 
 {% highlight ruby %}
+require 'docopt'
+
 doc = <<DOCOPT
 Print images in the terminal.
 
 Usage:
   catpix --help | --version
   catpix [options] <path>
+
 Options:
   -w=<width>, --limit-width     Limit width of the image (factor of the size
                                 of the terminal window) [default: 1].
@@ -105,6 +108,9 @@ interface that is focused what you need for scripting: run a command, see how
 it went and maybe process the output. Check out this simple example:
 
 {% highlight ruby %}
+require 'scriptster'
+include 'Scriptster'
+
 log :info, "Listing files"
 ls = cmd "ls -l | grep -v '^total'",
   show_out: true,
@@ -154,12 +160,18 @@ that. To save some of your memory, try using a function similar to this:
 {% highlight bash %}
 new-ruby-script()
 {
-    local url="https://raw.githubusercontent.com/pazdera/scriptster/master"
-    curl "$url/examples/minimal-template.rb" >"$1"
-    #curl "$url/examples/documented-template.rb" >"$1"
+    if [ -n "$1" ]; then
+        local script="$1"
+    else
+        local script=`mktemp scriptster.rb.XXXX`
+    fi
 
-    chmod +x "$1"
-    $EDITOR "$1"
+    local url="https://raw.githubusercontent.com/pazdera/scriptster/master"
+    curl "$url/examples/minimal-template.rb" >"$script"
+    #curl "$url/examples/documented-template.rb" >"$script"
+
+    chmod +x "$script"
+    $EDITOR "$script"
 }
 {% endhighlight %}
 
