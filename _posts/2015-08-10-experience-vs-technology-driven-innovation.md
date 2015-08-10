@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Should innovation be driven by experiments or experience?"
+title: "Experience-driven vs. technology-driven innovation"
 description: ""
 comments: true
 categories:
@@ -14,10 +14,10 @@ tags:
 
 There are two ways of building new products, whether it's an open source
 library, large SaaS platform, small Android app or the next iPhone. You can sit
-down and think about **the experience** the product should provide and then
-look for the ways of getting it, or you can **experiment** with the tools you
-already know and see what interesting comes up. The approach you use will
-determine the results you'll be able to get. So which should you use?
+down and think about the **experience** the product should provide and then
+look for the ways of getting it, or you can **experiment** with the technology
+you already have and see what interesting comes up. The approach you use will
+determine the results you'll be able to get.
 
 ## Experience-driven innovation
 
@@ -47,14 +47,13 @@ to the end in advance and deviate only a little from the prepared plot. But if
 you're not Jo Nesbø, you might not be able to come up with such a
 mind-boggling plot from the top of your head.
 
-## Experiment-driven innovation
+## Technology-driven innovation
 
-Experimentation goes bottom up. You take things you know or have,
-combine them and see what happens. This opens a whole new realm of
-possibilities where serendipity works on your behalf. You can try using things
-outside their usual scope or apply uncommon procedures, do things you wouldn't
-normally do. There's not really that much to it, just try stuff out and hope
-for the best.
+Experimentation goes bottom up. You take things you know or have, combine them
+and see what happens. This opens a whole new realm of possibilities where
+serendipity works on your behalf. You can use the technology outside its usual
+scope or apply uncommon procedures, do things you wouldn't normally do. There's
+not really that much to it, just try stuff out and hope for the best.
 
 This is the engineering way of doing things and surprising number of inventions
 had been discovered by a lucky chance. The problem is that since it's lucky,
@@ -66,25 +65,25 @@ Gmail, AdSense and Google Talk, rising from experimental side projects that
 would hardly get past the company direction meetings at the time.
 
 Arguably, blind experimentation can produce a lot of crap and the pearl may
-remind hidden away from you forever. Should you find it though, the reward is
-too high to be missed. A product that changes the way we think about the
-industry takes always a whole lot of effort and good bit of luck.
+remind hidden away from you for a long time. Should you find it though, the
+reward is too high to be missed. A product that changes the way we think about
+the industry takes always a whole lot of effort and good bit of luck.
 
-On a less successful note, smartwatches are the latest artefact of unsuccessful
-technology-driven approach. We know how to make small computers so why not
+On a less successful note, smartwatches are the latest artefact of innovation
+based on existing technology. We know how to make small computers so why not
 shrink them a bit more and put them on people's wrists? That sounds great, but
-far as experience goes, you get expensive, nagging notification centres that
-can only fit the useless part of the email on the screen.
+far as experience goes, you end up with overpriced, nagging notification
+centres with screens the size of your thumb.
 
-You certainly wouldn't arrive at what smartwatches are today while focusing on
-experience. "We want to change the way people think about watches. Imagine a
-bulky, three line display, instantly accessible on your hand that will show
+You probably wouldn't arrive at what smartwatches are today while focusing on
+the experience. "We want to change the way people think about watches. Imagine
+a bulky, three line display, instantly accessible on your hand that will show
 you the first 15 characters of your email's subject, provided you have your
 phone on you." Oh, wait…
 
 Back to fiction: this would be how the famous horror author [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)
 usually works. He starts with a specific character or scene and writes away to
-discover what happens next. His characters then lead themselves. But if you're
+discover what happens next. He lets his characters decide. But if you're
 not Stephen King, your story might just end up being a really boring chain of
 events.
 
