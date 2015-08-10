@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Experience-driven vs. technology-driven innovation"
+title: "Should innovation be driven by experiments or experience?"
 description: ""
 comments: true
 categories:
@@ -28,11 +28,11 @@ the tools or technology you need, you'll invest in developing them yourself.
 The implementation is as successful as close you can get the final results
 to your vision.
 
-This is the natural way of working for designers and the do this most of their
-time. They start with a problem and come up with what they think the solution
-should look like. If the designer is good, the product is likely to make sense,
-because there's a central  story driving the whole process (whether it'll make
-market sense, that's different story).
+This is the natural way of working for designers. They start with a problem
+and come up with what they think the solution should look like. If the
+designer is good, the product is likely to make sense, because there's a
+central  story driving the whole process (whether it'll _make market_ sense,
+that's different story).
 
 This can render good things and bad. An 1-click laundry service app, a
 revolutionary way to manage your photo library or perhaps a cloud platform
@@ -47,7 +47,7 @@ to the end in advance and deviate only a little from the prepared plot. But if
 you're not Jo Nesbø, you might not be able to come up with such a
 mind-boggling plot from the top of your head.
 
-## Technology-driven innovation
+## Experiment-driven innovation
 
 Experimentation goes bottom up. You take things you know or have, combine them
 and see what happens. This opens a whole new realm of possibilities where
