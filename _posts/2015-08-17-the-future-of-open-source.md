@@ -11,15 +11,15 @@ tags:
 - open source
 ---
 
-Github -- the most popular hosting provider of open source projects was founded
-seven years ago. It brought the ideas of free software to a much broader
-audience, particularly of younger programmers and undoubtedly made a
-mark on the way we see open source today.
+[Github](https://github.com) -- the most popular hosting service for open
+source projects was founded seven years ago. It brought the ideas of free
+software to a much broader audience, particularly of younger programmers and
+undoubtedly made a mark on the way we see open source today.
 
 But it's not the only thing that changed. Open source is now _the way_ software
 is done. [Over 70% of companies](https://www.blackducksoftware.com/future-of-open-source)
 run on open source and giants like Facebook, Twitter or even Microsoft release
-new projects in dozens, bringing up an entirely new set of challenges for the
+new projects in dozens, unleashing an entirely new set of challenges for the
 open source world. What will the next seven years look like for programmers?
 
 ## Code and community
