@@ -97,7 +97,7 @@ based on the work they did within the open source community.
 Seeing a person at work on an open source project gives you much better idea of
 how good they are than having them reverse a binary tree on a whiteboard.
 
-On the other side, many engineers will recognise the value of working in the
+On the other side, many engineers will recognize the value of working in the
 open. Being able to contribute to open source projects gives you an opportunity
 to work outside your team, break the stereotype and learn from people you would
 have otherwise never met, often very good programmers. Being able to build a
@@ -114,6 +114,10 @@ what it always will be.
 Never before have programmers enjoyed so much power over software vendors and
 had so much resources freely available to them. On the other hand, the steep
 rise in quantity makes it increasingly more difficult to succeed when releasing
-new projects and it will be even tougher in the future.
+new projects and it will be even tougher in the future, possibly increasing the
+gap between individual and company backed projects that can actively market
+them.
 
-So will open source look the same in 2022? I'd be surprised if it does.
+What do you think the open source world will look like in 2022? Post your
+thoughts in the comment section below or tweet at
+[@radekpazdera](https://twitter.com/radekpazdera).
