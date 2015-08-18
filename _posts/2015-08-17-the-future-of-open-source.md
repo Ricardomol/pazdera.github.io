@@ -87,7 +87,7 @@ you're the only one in the world that can understand it?
 Many pieces were written on the subject of [technical
 interviews](http://thenextweb.com/entrepreneur/2014/03/11/technical-recruiting-broken-4-ways-hire-better/)
 [being broken](http://erniemiller.org/2013/09/19/interviews-are-broken/). Open
-source is one way to solve this issue may be solved over the next few years.
+source is one way to solve this issue over the next few years.
 
 Companies such as [Workshape](https://www.workshape.io/) already use the
 applicants's Github profiles and match them with suitable employers. There's no
