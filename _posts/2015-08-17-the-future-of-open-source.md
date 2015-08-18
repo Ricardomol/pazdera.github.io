@@ -26,7 +26,7 @@ open source world. What will the next seven years look like for programmers?
 
 Code is obviously an important part of every open source software project.
 Particularly in the beginning, it's the reason why a group of people gets
-together start a community.
+together to start a community.
 
 Programmers are passionate about their work which makes code a source of
 numerous rows and squabbles that can send
