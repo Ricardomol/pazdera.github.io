@@ -89,8 +89,8 @@ interviews](http://thenextweb.com/entrepreneur/2014/03/11/technical-recruiting-b
 [being broken](http://erniemiller.org/2013/09/19/interviews-are-broken/). Open
 source is one way to solve this issue over the next few years.
 
-Companies such as [Workshape](https://www.workshape.io/) already use the
-applicants's Github profiles and match them with suitable employers. There's no
+Companies like [Workshape](https://www.workshape.io/) already use the
+applicants's Github profiles to match them with suitable employers. There's no
 reason why this couldn't go even further to evaluating someone's abilities
 based on the work they did within the open source community.
 
