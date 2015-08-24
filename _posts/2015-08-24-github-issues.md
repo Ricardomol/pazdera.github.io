@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to organise Github issues to attract new contributors"
+title: "How to use Github issues to attract new contributors"
 description: ""
 comments: true
 categories:
@@ -21,8 +21,8 @@ For many projects, the [list of issues](https://github.com/joyent/node/issues)
 on Github is the main point of contact between users and developers. People
 will come to the issue tracker with different purposes and levels of
 familiarity with your application, reporting bugs, requesting features, asking
-questions and looking to contribute. How to ensure that they can always find
-what they need?
+questions and looking to contribute. How to make sure that they find what they
+need?
 
 ## Use good labels
 
