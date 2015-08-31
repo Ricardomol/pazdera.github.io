@@ -51,7 +51,7 @@ unreasonable to ask for a reference from the maintainers.
 Open source is your chance to change your interviewer’s look from _we
 already have a coffee machine_ to this:
 
-{% include figure.html img="students-and-oss/fallon-gif.gif" alt="WHAT?! Gif" width="100%" caption='<strong>Your interview</strong>: You know NodeJS? — Yah. What about it? — I refactored a few things in the core. The changes went in 0.12.7 if you want to take a look.' %}
+{% include figure.html img="students-and-oss/fallon-gif.gif" alt="WHAT?! Gif" width="100%" caption='<strong>Your interview</strong>: You know NodeJS? — Yah. What about it? — I refactored a few things in the core. The changes went in 0.12.7 if you want to take a look. (<a href="http://fallontonightgifs.tumblr.com/post/97068060632">Source</a>)' %}
 
 ## Making your project beginner friendly
 
