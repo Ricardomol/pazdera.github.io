@@ -74,7 +74,7 @@ project rot in an abandoned Github repo that nobody cares about!
 Personally, I’d be wary to spend a lot time with beginners on one-on-one basis
 before seeing at least a few contributions from them. Rather invest in writing
 up guides that many of them can benefit from. It may not sound very nice, but
-this needs to be beneficial for everyone and it’s way too easy see lots of
+this needs to be beneficial for everyone and it’s way too easy to see lots of
 talking and little coding.
 
 So where to start? You might want to start by [organising your bug
@@ -92,7 +92,7 @@ the ticket and outline the solution.
 ## The challenge for students
 
 If you’re a student looking for experience today, I challenge you to find a
-project you’ve used before and liked and in a language that you know (prefer
+project you’ve used before and liked in a language that you know (prefer
 smaller projects over large and established ones). Get the sources and make it
 work on your machine. Build it and make sure you can run the test suite (this
 should be really simple if the project is small).
