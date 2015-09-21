@@ -124,7 +124,7 @@ documentation](http://opensource.com/business/15/5/write-better-docs) on
 [Opensource.com](http://opensource.com/) earlier this year. Make sure to check
 it out!
 
-## Don’t forget a licence
+## Don’t forget the licence
 
 A major mistake that can hinder the adoption of your project is the lack of an
 open source licence. Make sure your code comes with one and that it’s been
