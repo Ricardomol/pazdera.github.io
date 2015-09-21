@@ -58,8 +58,8 @@ that some operating systems have.
 ### Language-level packages
 
 Or you can create a language-level package, if such an option exists for the
-technology you're using. This includes [PyPI](https://pypi.python.org/pypi),
-[Rubygems](https://rubygems.org/), [npm](https://www.npmjs.com/) and similar
+technology you're using -- like [PyPI](https://pypi.python.org/pypi),
+[Rubygems](https://rubygems.org/), [npm](https://www.npmjs.com/) and such.
 These tend to be much simpler, often devoid of the tens of pages of
 documentation you need to go through to get your package accepted into a
 distro. Depending on your ecosystem, they might even be a better option.
