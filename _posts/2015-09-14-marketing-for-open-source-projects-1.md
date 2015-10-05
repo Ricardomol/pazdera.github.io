@@ -21,7 +21,7 @@ without doing a little marketing.
 But that isn’t what most of us programmers are used to or comfortable doing.
 And so our code lays abandoned in repositories that nobody cares about. How can
 you change that? This post series will go through a number of things you could
-do to help your project get discovered and make it easier for others to get
+do to help your project be discovered and make it easier for others to get
 involved.
 
 ## Your community starts with users
