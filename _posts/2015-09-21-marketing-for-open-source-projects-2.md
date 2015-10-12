@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marketing for open-source projects 2/5"
+title: "Make your open-source project accessible"
 description: ""
 comments: true
 categories:

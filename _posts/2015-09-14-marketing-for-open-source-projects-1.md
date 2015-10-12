@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marketing for open-source projects 1/5"
+title: "Marketing for open-source projects"
 description: ""
 comments: true
 categories:
@@ -23,6 +23,16 @@ And so our code lays abandoned in repositories that nobody cares about. How can
 you change that? This post series will go through a number of things you could
 do to help your project be discovered and make it easier for others to get
 involved.
+
+#### The series
+
+This is a first post in a 5-piece series. Here's the rest:
+
+* [1/5: Target audience and the landing page](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/)
+* [2/5: Make your project accessible](http://radek.io/2015/09/21/marketing-for-open-source-projects-2/)
+* [3/5: Spread the word](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+* [4/5: Turn users into contributors](http://radek.io/2015/10/05/marketing-for-open-source-projects-4/)
+* [5/5: Grow your community](http://radek.io/2015/10/05/marketing-for-open-source-projects-4/)
 
 ## Your community starts with users
 
