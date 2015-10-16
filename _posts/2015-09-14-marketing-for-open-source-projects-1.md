@@ -26,7 +26,7 @@ involved.
 
 #### The series
 
-This is a first post in a 5-piece series. Here's the rest:
+This is a first post in a 5-piece long series. Here's the rest:
 
 * [1/5: Target audience and the landing page](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/)
 * [2/5: Make your project accessible](http://radek.io/2015/09/21/marketing-for-open-source-projects-2/)
@@ -115,6 +115,4 @@ Next time, we’ll take a look at making your project more accessible for users.
 What’s worse than not being able to understand what a project really does?
 Having to spend three hours trying to make it work.
 
-Do you want to be notified when the next one comes out?
-[Subscribe](http://eepurl.com/bnBELn) to my newsletter below. I post new
-articles on Mondays.
+**Next post**: [2/5: Making your project accessible](http://radek.io/2015/09/21/marketing-for-open-source-projects-2/)

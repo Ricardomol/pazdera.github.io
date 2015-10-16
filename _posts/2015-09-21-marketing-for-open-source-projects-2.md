@@ -138,6 +138,5 @@ information.
 Now that your project is ready to be adopted by users, it’s time to spread the
 word about it, which will be the topic of the next instalment.
 
-Do you want to be notified when the next one comes out?
-[Subscribe](http://eepurl.com/bnBELn) to my newsletter below. I post new
-articles on Mondays.
+**Next post**: [3/5: Spreading the
+word](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)

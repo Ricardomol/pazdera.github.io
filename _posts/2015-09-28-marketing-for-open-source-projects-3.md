@@ -121,6 +121,4 @@ Your project is out there, getting it’s first users and gathering the first
 fans. Exciting! Keep at it and your efforts will surely pay off. The next time,
 we’ll take a look at turning users into contributors.
 
-Do you want to be notified when the next one comes out?
-[Subscribe](http://eepurl.com/bnBELn) to my newsletter below. I publish new
-posts on Mondays.
+**Next post**: [4/5: Turning users into contributors](http://radek.io/2015/10/05/marketing-for-open-source-projects-4/)

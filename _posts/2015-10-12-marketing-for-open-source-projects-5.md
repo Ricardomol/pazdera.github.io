@@ -20,12 +20,12 @@ series and this time we’ll focus on **growing your community further**.
 
 #### Catch up
 
-If you haven’t yet, check out the previous instalments in the series:
+If you haven’t yet, check out the previous parts in the series:
 
-* [FOSS marketing 1/5: Target audience and the landing page](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/)
-* [FOSS marketing 2/5: Make your project accessible](http://radek.io/2015/09/21/marketing-for-open-source-projects-2/)
-* [FOSS marketing 3/5: Spread the word](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
-* [FOSS marketing 4/5: Turn users into contributors](http://radek.io/2015/10/05/marketing-for-open-source-projects-4/)
+* [1/5: Target audience and the landing page](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/)
+* [2/5: Making your project accessible](http://radek.io/2015/09/21/marketing-for-open-source-projects-2/)
+* [3/5: Spreading the word](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+* [4/5: Turning users into contributors](http://radek.io/2015/10/05/marketing-for-open-source-projects-4/)
 
 ## The why
 

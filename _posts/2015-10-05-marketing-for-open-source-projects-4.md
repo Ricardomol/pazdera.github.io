@@ -136,6 +136,4 @@ Your project is now well established; the numbers of users and contributors
 both rising steadily. What's the next step? That's exactly what the final
 instalment of this series will focus on. Stay tuned!
 
-Do you want to be notified when the next one comes out?
-[Subscribe](http://eepurl.com/bnBELn) to my newsletter below. I publish new
-posts on Mondays.
+**Next**: [5/5: Growing your community](http://radek.io/2015/10/05/marketing-for-open-source-projects-4/)
