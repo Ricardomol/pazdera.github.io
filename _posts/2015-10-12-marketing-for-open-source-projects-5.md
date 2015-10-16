@@ -12,11 +12,10 @@ tags:
 - marketing
 ---
 
-People have been using and contributing to your project for a while, but
-there’s still much more work than your team of contributors are able to handle?
-This is the final part of the [Marketing for open-source
+Does your project have an active community, but there's still way more work than
+it can handle? This is the final part of the [Marketing for open-source
 projects](http://radek.io/2015/09/14/marketing-for-open-source-projects-1/)
-series and this time we’ll focus on **growing your community further**.
+series and this time we’ll focus on how to keep **your community growing**.
 
 #### Catch up
 
