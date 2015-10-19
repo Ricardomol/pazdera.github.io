@@ -61,7 +61,7 @@ Here is an example class diagram of adapter use. You see there is some old
 interface which the adapter **uses**. On the other end, there is new **target
 interface** that the adapter implements. The **client** (i.e. your app) then
 uses the daisy fresh new interface. For more explanation see the source code
-examples bellow.
+examples below.
 
 ## C++
 

@@ -32,7 +32,7 @@ and **convention**.
 ## Public
 
 All member variables and methods are public by default in Python. So when you
-want to make your member public, you just do nothing. See the example bellow:
+want to make your member public, you just do nothing. See the example below:
 
 
 {% highlight python %}
@@ -68,7 +68,7 @@ Protected member is (in C++ and Java) accessible **only** from within the
 class and it's subclasses. How to accomplish this in Python? The answer is
 -- **by convention**. By prefixing the name of your member with **a single
 underscore**, you're telling others "[don't touch this, unless you're a subclass](http://www.youtube.com/watch?v=otCpCn0l4Wo)".
-See the example bellow:
+See the example below:
 
 
 {% highlight python %}
@@ -107,7 +107,7 @@ access it from outside the class, i.e. strong
 Python supports a technique called [name mangling](http://en.wikipedia.org/wiki/Name_mangling#Name_mangling_in_Python).
 This feature turns every member name **prefixed with at least two underscores
 and suffixed with at most one underscore** into `_<className><memberName>` .
-So how to make your member private? Let's have a look at the example bellow:
+So how to make your member private? Let's have a look at the example below:
 
 
 {% highlight python %}

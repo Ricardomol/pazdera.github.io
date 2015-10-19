@@ -35,7 +35,7 @@ After installing it, you'll able to use the `ww` program. It's interface is very
 simple. You can pass a file to be word-wrapped either via an argument or the
 standard input. In both cases, the result will be written to stdout. You can
 specify the maximum width via the -w parameter (the default width is set to 80)
-and you can also enable exact fit (described bellow) by passing the -f flag. A
+and you can also enable exact fit (described below) by passing the -f flag. A
 few examples follow.
 
 {% highlight bash %}
@@ -66,7 +66,7 @@ require "word_wrap"
 
 After that, the most convenient way of accessing this functionality is via the
 **String** class extensions **#wrap** and **#fit**. The former does wrapping
-only, the later one adds the exact fit (the difference is explained bellow).
+only, the later one adds the exact fit (the difference is explained below).
 Again, a couple of example follow.
 
 {% highlight ruby %}

@@ -97,7 +97,7 @@ body. I use the following:
 
 When a pull request is merged, it's unlikely that your input on it would be
 required and you can safely pass on it in most cases (especially when you
-haven't been tagged in the discussion bellow the PR).
+haven't been tagged in the discussion below the PR).
 
 GitHub sends a notification for which you can set up a filter to tag the
 relevant email thread as **Merged**. Here's mine:
