@@ -22,8 +22,8 @@ Whatever the reason, sometimes we need a custom automated script to spare
 ourselves hours of mindless manual work. The trick is, of course, being able to
 write and debug it faster than it would take to do the actual task manually.
 
-This post explains how to use **gitwalk** to quickly make changes to many
-repositories in parallel.
+This post explains how to use [gitwalk](http://radek.io/2015/11/03/gitwalk/)
+to quickly make changes to many repositories in parallel.
 
 ## About gitwalk
 
