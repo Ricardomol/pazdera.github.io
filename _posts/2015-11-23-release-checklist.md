@@ -15,7 +15,7 @@ tags:
 Releasing an open-source project requires a few more things than just putting
 the code up on the internet. Well, that is if you want people to see it.
 
-The open-source community has grown a lot over the past ten years. Linux has
+The interest in open-source has grown a lot over the past ten years. Linux has
 been deployed on washing machines and combat drones, and most programmers today
 could hardly imagine doing their work without the vast array of free and
 open-source tools at their disposal.
@@ -29,7 +29,10 @@ How can you help your open source project get noticed?
 
 ## The checklist
 
-These are the steps I take when making any of my code open-source.
+These are the steps I take when making any of my code open source. They come
+in five sections in no particular order. You can use some, you can use
+all. The goal is to make it as easy as possible for others to find out about
+your project, learn how to use it and contribute back. Here it goes:
 
 <style>
     .checklist {
@@ -264,7 +267,7 @@ These are the steps I take when making any of my code open-source.
 ## Ready, set, release!
 
 With all these boxes ticked your project is well set to sail the high seas of
-open code. Don't worry if you can't do all of them -- every little helps.
+open source. Don't worry if you can't do all of them -- every little helps.
 
 And when you finally get the first contributor, don't forget to celebrate:
 
