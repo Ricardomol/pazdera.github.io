@@ -34,11 +34,11 @@ and **convention**.
 All member variables and methods are public by default in Python. So when you
 want to make your member public, you just do nothing. See the example below:
 
-
 {% highlight python %}
 class Cup:
-    color = None
-    content = None
+    def __init__(self):
+        self.color = None
+        self.content = None
 
     def fill(self, beverage):
         self.content = beverage
@@ -73,8 +73,9 @@ See the example below:
 
 {% highlight python %}
 class Cup:
-    color = None
-    _content = None # protected variable
+    def __init__(self):
+        self.color = None
+        self._content = None # protected variable
 
     def fill(self, beverage):
         self._content = beverage
@@ -109,14 +110,11 @@ This feature turns every member name **prefixed with at least two underscores
 and suffixed with at most one underscore** into `_<className><memberName>` .
 So how to make your member private? Let's have a look at the example below:
 
-
 {% highlight python %}
 class Cup:
-    _color = None    # protected variable
-    __content = None # private variable
-
     def __init__(self, color):
-        self._color = color
+        self._color = color    # protected variable
+        self.__content = None  # private variable
 
     def fill(self, beverage):
         self.__content = beverage
@@ -134,8 +132,8 @@ redCup = Cup("red")
 redCup._Cup__content = "tea"
 {% endhighlight %}
 
-This will work, except, in case you see this, you kick your colleague, who's
-responsible for it [hard in the nuts](http://www.youtube.com/watch?v=otCpCn0l4Wo&feature=player_detailpage#t=128s).
+When you see this, you should probably kick your colleague, who's responsible
+for it [hard in the nuts](http://www.youtube.com/watch?v=otCpCn0l4Wo&feature=player_detailpage#t=128s).
 
 ## Sources
 
