@@ -73,9 +73,8 @@ See the example below:
 
 {% highlight python %}
 class Cup:
-    def __init__(self):
-        self.color = None
-        self._content = None # protected variable
+    color = None
+    _content = None # protected variable
 
     def fill(self, beverage):
         self._content = beverage
@@ -113,10 +112,10 @@ So how to make your member private? Let's have a look at the example below:
 
 {% highlight python %}
 class Cup:
-    def __init__(self, color):
-        self._color = None    # protected variable
-        self.__content = None # private variable
+    _color = None    # protected variable
+    __content = None # private variable
 
+    def __init__(self, color):
         self._color = color
 
     def fill(self, beverage):
@@ -127,15 +126,15 @@ class Cup:
 {% endhighlight %}
 
 Our cup now can be only filled and poured out by using `fill()` and `empty()`
-methods. Note that accessing `__content` from outside will work nonetheless.
-You can still do something like this:
+methods. Note, that if you try accessing `__content` from outside, you'll get
+an error. But you can still stumble upon something like this:
 
 {% highlight python %}
 redCup = Cup("red")
-redCup.__content = "tea"
+redCup._Cup__content = "tea"
 {% endhighlight %}
 
-In case you see this, you should probably kick your colleague who's
+This will work, except, in case you see this, you kick your colleague, who's
 responsible for it [hard in the nuts](http://www.youtube.com/watch?v=otCpCn0l4Wo&feature=player_detailpage#t=128s).
 
 ## Sources
