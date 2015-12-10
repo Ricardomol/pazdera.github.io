@@ -119,5 +119,5 @@ not for a few paragraphs of copy?
 This is the end for part one. The next time, we’ll take a look at some more
 technical things like style or structure.
 
-[Subscribe to my newsletter](http://radek.io/newsletter/) to get a notification
-when it comes out.
+[Subscribe to my newsletter](http://radek.io/newsletter/) to be the first one
+to know when it comes out.
