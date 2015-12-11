@@ -21,7 +21,7 @@ ingrained into the daily routine of many. But as sophisticated as these may be,
 they all depend on our ability to tell stories, explain and communicate clearly
 through the ancient mystery that is the written word.
 
-This post series a somewhat random collection of thoughts about writing. From a
+This post series is a somewhat random collection of thoughts about writing. From a
 programmer, for programers.
 
 ## The importance of writing well
