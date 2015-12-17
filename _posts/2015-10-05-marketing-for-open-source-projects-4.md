@@ -136,4 +136,4 @@ Your project is now well established; the numbers of users and contributors
 both rising steadily. What's the next step? That's exactly what the final
 instalment of this series will focus on. Stay tuned!
 
-**Next**: [5/5: Growing your community](http://radek.io/2015/10/05/marketing-for-open-source-projects-4/)
+**Next**: [5/5: Growing your community](http://radek.io/2015/10/12/marketing-for-open-source-projects-5/)
