@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing for programmers"
+title: "Writing for developers"
 description: ""
 comments: true
 categories:
