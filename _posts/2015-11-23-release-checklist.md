@@ -264,6 +264,20 @@ your project, learn how to use it and contribute back. Here it goes:
   </li>
 </ul>
 
+#### Tools
+
+<ul class="checklist">
+  <li>
+    <label><input type="checkbox">
+      Does your project have with automated tests?
+    </label>
+    <div>
+      A test suite makes it easier for contributors to validate their
+      changes without being aware of the rest of the codebase.
+    </div>
+  </li>
+</ul>
+
 ## Ready, set, release!
 
 With all these boxes ticked your project is well set to sail the high seas of
