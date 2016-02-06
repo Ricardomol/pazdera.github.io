@@ -23,8 +23,8 @@ better writers we are, the easier it is.
 
 Check out the first two instalments if you haven't yet:
 
- * [Writing for developers 2: Red-Green-Refactor](/2015/12/10/writing-for-programmers-1/)
- * [Writing for developers 1: Clarity and context](/2015/12/17/writing-for-programmers-2/)
+ * [Writing for developers 1: Red-Green-Refactor](/2015/12/10/writing-for-programmers-1/)
+ * [Writing for developers 2: Clarity and context](/2015/12/17/writing-for-programmers-2/)
 
 In this one, we'll take a look at **style**.
 
