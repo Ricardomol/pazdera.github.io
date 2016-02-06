@@ -19,10 +19,12 @@ or program documentation. This exchange is incredibly important for the
 software engineering community so we don’t keep reinventing the wheel. And the
 better writers we are, the easier it is.
 
+{% include figure.html img="writing-for-devs/pen-horiz.png" alt="Illustrated fountain pen" width="80%" %}
+
 Check out the first two instalments if you haven't yet:
 
- * [Writing for developers: Red-Green-Refactor](/2015/12/10/writing-for-programmers-1/)
- * [Writing for developers: Clarity and context](/2015/12/17/writing-for-programmers-2/)
+ * [Writing for developers 2: Red-Green-Refactor](/2015/12/10/writing-for-programmers-1/)
+ * [Writing for developers 1: Clarity and context](/2015/12/17/writing-for-programmers-2/)
 
 In this one, we'll take a look at **style**.
 

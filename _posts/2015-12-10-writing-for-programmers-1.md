@@ -21,6 +21,8 @@ ingrained into the daily routine of many. But as sophisticated as these may be,
 they all depend on our ability to tell stories, explain and communicate clearly
 through the ancient mystery that is the written word.
 
+{% include figure.html img="writing-for-devs/pen-horiz.png" alt="Illustrated fountain pen" width="80%" %}
+
 This post series is a somewhat random collection of thoughts about writing. From a
 programmer, for programers.
 

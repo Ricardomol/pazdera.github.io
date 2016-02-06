@@ -18,6 +18,8 @@ Last week, I posted about how similar the process of writing is to the
 three stages helps to get more done and at higher level of quality. Programming
 is a form of writing after all.
 
+{% include figure.html img="writing-for-devs/pen-horiz.png" alt="Illustrated fountain pen" width="80%" %}
+
 Haven't read the first part yet? Check it out [here](http://radek.io/2015/12/10/writing-for-programmers-1/).
 
 This post follows up about **clarity** and **context**, both important aspects
